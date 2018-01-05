@@ -1,4 +1,0 @@
-# Design and perception
-
-
-
