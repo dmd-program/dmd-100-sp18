@@ -52,7 +52,7 @@
     * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
-    * [Deliver: Final prototype](projects/deliver-final-prototype.md)
+    * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
   * [Topics](lessons/narrative/topics.md)
     * [Why stories?](topics/narrative.md)
