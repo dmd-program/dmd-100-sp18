@@ -1,4 +1,0 @@
-## Activism
-
-Cyber-activism
-
