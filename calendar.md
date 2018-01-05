@@ -17,180 +17,202 @@
 * Reading
   * Lesson 2 Topics
   * Chapter 2 from Design and Truth by Robert Grudin
+  * Ritual Project Introduction
 * Listening
-  * Podcast:
+  * Podcast: 99 Percent Invisible: Of mice and men
 * Activities
   * Daily design journal: \(**Assigned** beginning of week\)
   * Chapter 2 Reading response
-* Project 1
-  * Ritual: Discover
-  * Ritual: Define
+* Ritual Project
+  * Discover: Interview
+  * Discover: Journey Map
 
 ## Week 3 \(Lesson 2\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 2 Topics
   * Chapter 3 from Design and Truth by Robert Grudin
 * Listening
-  * Podcast: 
+  * Podcast: 99 Percent Invisible: 10,000 years
+  * Podcast: 99 Percent Invisible: Unpleasant Design
 * Activities
   * Daily design journal: \(**Due** by end of week\)
   * Chapter 3 Reading response
-* Project 1
+* Ritual Project
+  * Define: HMW
+  * Develop: Storyboard
+  * Develop: Prototype
 
 ## Week 4 \(Lesson 2\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 2 Topics
   * Chapter 4 from Design and Truth by Robert Grudin
 * Listening
-  * Podcast: 
+  * Podcast: 99 Percent Invisible: Unpleasant Design
 * Activities
   * Visual Manual
   * Chapter 4 Reading response
-* Project 1
+* Ritual Project
+  * Develop: Test and Iterate
+  * Deliver: Final Prototype
+  * Discuss: Critique
 * End of Lesson Discussion
 
 ## Week 5 \(Lesson 3\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 3 Topics
   * Chapter 5 from Design and Truth by Robert Grudin
+  * Hypertext Narrative Project Introduction
 * Listening
-  * Podcast:
+  * Podcast: Creative Mornings: Writing your way to freedom
 * Activities
-* Project 2
-  * Discover
-  * Define
+* Hypertext Narrative Project
+  * Discover: Word-pairs
+  * Define: The way it was
 
 ## Week 6 \(Lesson 3\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 3 Topics
   * Chapter 6 from Design and Truth by Robert Grudin
-* Listening
-  * Podcast:
+* Watch
+  * Open Structures: Thomas Lommee
 * Activities
   * Chapter 6 Reading response
-* Project 2
-  * Develop
-  * Deliver
+* Hypertext Narrative Project
+  * Develop: Story and Plot
+  * Develop: Iterate
+  * Develop: Narrative
 
 ## Week 7 \(Lesson 3\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 3 Topics
   * Chapter 7 from Design and Truth by Robert Grudin
 * Listening
   * Podcast:
 * Activities
   * Chapter 7 Reading response
-* Project 2
-  * Discuss 
+* Hypertext Narrative Project
+  * Deliver: Hypertext Narrative
+  * Discuss: Hypertext Narrative Critique
 * End of Lesson Discussion
 
 ## Week 8 \(Lesson 4\)
 
 * Reading
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 4 Topics
   * Chapter 8 from Design and Truth by Robert Grudin
 * Listening
   * Podcast:
 * Activities
   * Chapter 8 Reading response
-* Project 3
+* Open Toy Project
+  * Introduction
+  * Discover: Primary research
+  * Discover: Secondary research
 
-  * ## Week 9 \(Lesson 4\)
+## Week 9 \(Lesson 4\)
 
 * Reading
-
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 4 Topics
   * Chapter 9 from Design and Truth by Robert Grudin
-
+  * Open Toy Project Introduction
 * Listening
   * Podcast:
 * Activities
   * Chapter 9 Reading response
-* Project 3
+* Open Toy Project
+  * Define: Design Principles
+  * Develop: Instructions
+  * Develop: Prototyping
 
-  * ## Week 10 \(Lesson 4\)
+## Week 10 \(Lesson 4\)
 
 * Reading
-
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 4 Topics
   * Chapter 10 from Design and Truth by Robert Grudin
-
 * Listening
   * Podcast:
 * Activities
   * Chapter 10 Reading response
-* Project 3
+* Open Toy Project
+  * Develop: Test
+  * Develop: Iterate
 * End of Lesson Discussion
 
-  ## Week 11 \(Lesson 5\)
+  ## Week 11 \(Lesson 4\)
 
 * Reading
 
-  * Course Introduction, Calendar
-  * Lesson 5 Topics
+  * Calendar
+  * Lesson 4 Topics
   * Chapter 11 from Design and Truth by Robert Grudin
 
 * Listening
+
   * Podcast:
+
 * Activities
   * Chapter 11 Reading response
-* Project 4
+* Open Toy Project
+  * Deliver: Open Toy
+  * Deliver: Document
+  * Discuss: Open Toy Critique
 
-  * ## Week 12 \(Lesson 5\)
+## Week 12 \(Lesson 5\)
 
 * Reading
-
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 12 from Design and Truth by Robert Grudin
-
+  * Field Guide Project Introduction
 * Listening
   * Podcast:
 * Activities
   * Chapter 12 Reading response
-* Project 4
+* Field Guide Project
+  * Discover: Mind mapping
+  * Define: Concept
 
-  * ## Week 13 \(Lesson 5\)
+## Week 13 \(Lesson 5\)
 
 * Reading
-
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 13 from Design and Truth by Robert Grudin
-
 * Listening
   * Podcast:
 * Activities
   * Chapter 13 Reading response
-* Project 4
+* Field Guide Project
+  * Develop: Publishing tools
 
-  * ## Week 14 \(Lesson 5\)
+## Week 14 \(Lesson 5\)
 
 * Reading
-
-  * Course Introduction, Calendar
+  * Calendar
   * Lesson 5 Topics
   * Chapter 14 from Design and Truth by Robert Grudin
-
+  * Chapter 15 from Design and Truth by Robert Grudin
 * Listening
   * Podcast:
 * Activities
   * Chapter 14 Reading response
-* Project 4
-* End of Lesson Discussion 
+* Field Guide Project
+  * Deliver: Field Guide
+  * Discuss: Field Guide Critique
+* End of Lesson Discussion
 
 
 

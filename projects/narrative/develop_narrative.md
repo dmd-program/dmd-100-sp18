@@ -21,7 +21,5 @@
 
 1. Submit the first draft to the studio. Acceptable file types include TXT, RTF, DOC, PDF.
 
-## Grading
-
 
 

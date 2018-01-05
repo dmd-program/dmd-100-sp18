@@ -13,7 +13,7 @@ Written by Michel Avital and published in _Open Design Now!_
 ### The Context of Open Design
 
 Openness pertains to accessibility. Openness is a relative characteristic that refers to the degree to which something is accessible to view, modify and use. The ability to_view\_refers to sharing _[_SHARING_](http://opendesignnow.org/index.php/tag/share/index.html)_ content and the availability of detailed information about the subject matter. The ability to\_modify\_refers to sharing labour and empowering changes, improvements and extensions of subject matter. The ability to\_use\_refers to sharing ownership and enabling semi or unrestricted reuse of the subject matter or parts thereof. These are the three fundamental operations that are implied by accessibility. Subsequently, from a systems theory perspective, openness relates to the transparency and permeability of any natural or constructed boundaries. Yet openness is not merely a technical attribute that conveys flow or lack thereof; it is an embedded trait that pervades the structure of a thriving civil society. From a social perspective, openness is a core characteristic of an infrastructure that conveys and reinforces sharing, reciprocity, collaboration, tolerance, equity, justice and freedom. The application of openness, _[_OPEN EVERYTHING_](http://opendesignnow.org/index.php/tag/open_everything/index.html)_ as implied by various accessibility features, to a growing number of central ubiquitous practices that drive the human enterprise, has turned into a megatrend that can be labelled the\_Rise of Open-X_. Megatrends are widespread trends which have a major impact and are likely to affect all levels – individuals, organizations, markets, countries and civil society – for a long duration. Understanding megatrends [TRENDS](http://opendesignnow.org/index.php/tag/trend/index.html) and their rolling effects can provide valuable information for developing futuristic scenarios and can subsequently help to shape current actions in anticipation of that future. So far, as described below, Open-X has materialized in various configurations that can be classified according to three archetypes: open innovation, open source and open design. The three archetypes are juxtaposed in the table on the previous page as a preliminary overview to point out their different respective value propositions and thrust \(as a distributed collective action\), core openness orientation, and prime actors involved.  
-![](http://opendesignnow.org/wp-content/uploads/2011/05/generative1-1024x805.png)
+![Juxtaposing archetypes of open-x](https://raw.githubusercontent.com/dmd-program/dmd-100-sp17/master/assets/generative1-1024x805.png)
 
 ### Open Innovation
 
@@ -50,7 +50,7 @@ The discourse on open design encompasses a multitude of considerations: for exam
 
 The discourse so far is focused on the object and process layers, with some touches upon the practice layer. However, quite surprisingly, despite its fundamental role, the infrastructure layer is virtually ignored.
 
-![](http://opendesignnow.org/wp-content/uploads/2011/05/generative2-709x1024.png)
+![Layers of Open Design](https://raw.githubusercontent.com/dmd-program/dmd-100-sp17/master/assets/generative2-709x1024.png)
 
 ### Designing Generative Infrastructure
 
@@ -72,7 +72,7 @@ _Generative infrastructure is engaging
 \_Generative infrastructure is open  
 \_Generative infrastructure accentuates permeable boundaries and transparency that promote co-production, cross-fertilization and exchange of any kind. The infrastructure [ARCHITECTURE](http://opendesignnow.org/index.php/tag/architecture/index.html) can help in the creation of open systems or platforms that provide connectivity, enable transparency, allow information sharing, and encourage dialogue with no regard to institutionally or culturally imposed boundaries. Systemic features that drive open design enable, for example, free and unrestricted access to information, communication among all stakeholders, and the easy integration of third-party extensions by independent boundary-spanners. In summary, from the generative requirement perspective, infrastructures of open design should be evocative, engaging, adaptive and open. However, while the last two directives are clearly implied in the discourse of open design, the first two have not yet been addressed. Subsequently, the inclusion of evocative and engaging features in the infrastructure of open design, let alone in the discourse concerning its requirements, is strongly recommended. Although this conclusion might not be obvious for legislators, policymakers, managers, and engineers, it should be quite intuitive for designers.The expected proliferation of open design has far-reaching implications that are likely to extend well beyond design practices as such and have significant socio-economic effects on a global scale.
 
-![](http://opendesignnow.org/wp-content/uploads/2011/05/generative3-707x1024.png)
+![The Distinct Features of Open Design](https://raw.githubusercontent.com/dmd-program/dmd-100-sp17/master/assets/generative3-707x1024.png)
 
 ### Another Brave New World
 

@@ -49,7 +49,7 @@ What open source design does is redistribute knowledge [KNOWLEDGE](http://opende
 
 “This does not mean that anyone can make good design or that more rubbish can be produced,” Laarman says. “Just because everyone has a digital camera doesn’t mean that everyone is a photographer. I am not in favour of amateurism, but the way I envision the system working, the good will eventually be filtered from the bad.” [AMATEURISSIMO](http://opendesignnow.org/index.php/tag/amateurissimo.1.html)
 
-![](http://opendesignnow.org/wp-content/uploads/2011/05/composition_of_sales_price.jpg)
+![Composition of Sales Price](https://raw.githubusercontent.com/dmd-program/dmd-100-sp17/master/assets/composition_of_sales_price.jpg)
 
 ### Less Production Is Needed, Not More.
 

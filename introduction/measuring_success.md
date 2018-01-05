@@ -21,10 +21,11 @@ I have assembled a list that attempts to describe the attitudes and attributes t
    * Be aware of capabilities and limitations
    * Identify and clear away distractions 
 4. Perseverance \(grit\)
-   * Don't give up, do what you can with what you have
+   * Don't give up; do what you can with what you have
    * Dedicate time and energy
    * Finish what you start
-   * Practice unwavering optimism
+   * Practice unwavering optimism \(self-effacacy\)
+   * Fail fast to eventually succeed
 5. Skill
    * Develop intellectual capabilities
    * Achieve technical mastery
@@ -32,11 +33,7 @@ I have assembled a list that attempts to describe the attitudes and attributes t
 6. Empathy
    * Put yourself in someone's shoes to better understand why we design
    * Talk to people you want to design for
-   * Don't judge, listen and question
-
-
-
-Add section on "Guided Mastery" and "Self Effacacy"
+   * Listen, question, and defer judgement
 
 
 

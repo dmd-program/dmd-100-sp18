@@ -1,3 +1,5 @@
+![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
+
 # Ritual Project: Interview
 
 Field research is a central part of the human-centered design process. You will now practice field research by finding and interviewing a person who will become your target user.
@@ -6,30 +8,47 @@ Field research is a central part of the human-centered design process. You will 
 
 1. Journal
 2. Pencil or pen
+3. Access to a communication device \(computer or phone\)
 
-## Conduct an interview
+## Instructions guide
 
-Set up an interview. It can be a family member, a friend, a colleague at work, etc. The purpose of this interview is to understand the challenges that a person faces.
+### Step 1: Interview Setup
 
-Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem.
+The purpose of this interview is to better understand the day-to-day challenges that a person faces. Set up an interview. It can be a family member, a friend, a colleague at work, a student, etc. Ensure that you have at least an hour of time. The interview can be in-person, over the phone, or via video conversation. Please do not send a list of questions to your interviewee, as you will need to tailor the interview questions during the conversation. If you intend to record the interview \(not required\) you must obtain the permission of the interviewee.
 
-### 1. Find issues
+### Step 2: Find issues
 
-Start by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do. Record their responses in your journal.
+Start the interview by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
 
-### 2. Laddering: Five 'Why?'s
+#### Example questions
 
-Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question. Record their responses in your journal.
+1. Tell me about your day today or a typical day in your life.
+2. Do you find anything particularly challenging about your daily routine?
+   1. Do you have any reoccurring frustrations?  
+3. If you could change something about your day, what would it be?
+4. Is there something that, if only you were incredibly good at it, you could improve some aspect of your life?
+   1. Why aren't you good at it? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
 
-### 3. Notes
+#### Laddering - Five 'Why?'s
 
-Make a note of any responses that led to a deeper understanding of what motivates this person?
+Laddering is a technique developed in the 1960s to help clinical psychologists uncover core values and beliefs. If your participant has many responses from the previous step, focus on one response. Ask your participant **why**. Asking why helps us to better understand an ambiguous issue and gets to a more emotional aspect of a problem. After they respond, ask why again. Repeat this until you have asked why five times. Asking five times is important because core issues will start to emerge around four or five levels deep. Ask about their responses specifically to avoid horizontal questions. For example, "Why else didn't you get your homework done?" is a horizontal question. "Why didn't you have enough time to complete the assignment?" is a deeper question.
 
-## Deliverables
+### Step 3: Recording responses
 
-1. Submit an image of your notes from your journal pages.
+* Record the interviewee's responses in your journal. You don't need to write everything they say. Try to capture the key insights.
+* Make a note of any responses that led to a deeper understanding of what motivates this person?
+* The interview is about better understanding a potential user's problems. Try not to make reference to the project during the questions that may lead the interviewee to attempt to think of solutions. 
+
+## Instructions
+
+1. Set up the interview
+2. Ask questions to find key issue\(s\)
+3. Record the interviewee's responses in your journal
+
+## Post work to the Studio
+
+1. Submit an image of your journal notes.
 
 ## Citation:
 
 Adapted from: [http://www.designkit.org/methods/66](http://www.designkit.org/methods/66)
-

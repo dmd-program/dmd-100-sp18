@@ -1,110 +1,30 @@
-# Open Toy Kit Project: Introduction
+# Open Design Project
 
-In this project, you will design a kit of parts that can be used to build a toy, model, or other object. This object will be a collection or kit of parts that can be reconfigured to create variations. There are two ways to approach this project. You can decide to create your own parts, custom from raw materials like cardboard, wood, foam, etc. Or, you could develop creative ways of using commonly found objects like rubber bands, toothpicks, paper clips, etc. The goal of this project is to develop a kit using commonly available resources. According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
+![Paper cutting tools and tape](/assets/jo-szczepanska-57782.jpg)
 
-## Constraints
+## Brief
 
-1. You must not spend more than $10.00 USD to assemble the kit.
-2. Your users must be able to assemble their kits without special skills or tools.
-   1. Allowed tools: Scissors, exacto knife
-   2. Allowed marking implements: Pen, pencil, marker
+In this project, you will follow the Double Diamond design process to: \(1\) design a kit of parts that can be used to build a toy, model, or other object; \(2\) write comprehensive instructions for how to make the parts and assemble the kit; and \(3\) create photo documentation of your work.
 
-## Audience
+This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. You can create your own custom parts from raw materials like cardboard, wood, foam, and others, or found objects like rubber bands, toothpicks, paper clips, etc. A **part** is a discrete element and is different from an ingredient in that it maintains its structural integrity when it's separated, whereas an ingredient gets combined and can not be separated again without a complex separation process. Ingredients should not form the basis of the toy.
 
-1. Conduct desktop and field research of toy kits and models. Investigate websites that sell toys and visit physical toy and hobby stores. See if you can understand the ways in which 
-2. Choose an age that you would like to focus on. The end user does not have to be a child.
-3. What purpose does the kit serve?
-4. Geographical location?
-5. Who is building vs using?
+The primary goal of this project is to apply open design concepts to creating object using commonly available resources, and empower others to do the same. Secondary goals are to become familiar with product and market research, gain experience with user testing and feedback, practice presenting design process, produce knowledge design, and explore the IKEA effect for products. [Read more about the IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81).
 
-## Category
+**Note:** Remember, none of this is fiction. You are creating a real instruction set with everything needed for the end user to do this on their own. If you are incorporating templates, include them in the instructions for your users.
 
-What kind of kit are you building?
+### Background
 
-**Category ideas:**
+According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
 
-* Human or animal figures
-* Architectural models
-* Machines
-* Structures and shapes
-* Puzzle or game
-* Integrated electronics
-
-## Part types
-
-* Symbols
-* Shapes
-* Fasteners
-* Connectors
-* Support structures
-
-### Attributes
-
-* Name
-* Description
-* Is this modular or a unique \(one-off\) component?
-* Quantity
-* Cost breakdown
-
-## Variations
-
-How many variations that can be constructed by reconfiguring the same parts?
-
-## Kit prototype
-
-How will you help users gain mastery of using the kit?
-
-1. **Create instructions for your users to follow.** Instructions can include any one of or combination of photos or drawings, diagrams, audio, pre-recorded video, and/or step-based text instructions. Select your media based on the user's age.
-2. Instructions should include any process or technique required to prepare parts and how to combine parts together. 
-
-## Testing, feedback, and iteration
-
-Ideally, you will want to get feedback from a user representative of your audience both in terms of who will be constructing with the kit and who will be the end user. For instance, a parent might be the one to put the kit together if the toy is intended for a small child. Alternatively, a child might be assembling the kit for themselves or as a gift for another.
-
-### **Plan a user test session**
-
-Carefully observe someone attempting to use the kit. Take notes of what you notice. You may need to give some verbal suggestions if your users get stuck, but try to say as little as possible. After the user has assembled the kit per the instructions, ask them some followup questions. Take pictures of your test users during this process.
-
-**Example followup questions include:**
-
-1. What did you like about using the kit?
-2. What didn't you like? Why is that?
-3. Is there anything that can be improved on?
-4. Do you want more or less control over the final result?
-
-## Kit
-
-### Photo Documentation should include:
-
-1. Single kit of parts image: knolling style
-2. Photos of various assemblies demonstrating the modular or reconfigurable characteristics of the kit
-
-
+Originally conceived by the Institute Without Boundaries, the [Open Structures project](http://beta.openstructures.net/pages/9) has defined design guidelines to aid the users of the design framework: (1) Design for disassembly, (2) Design with recyclable materials, (3) Design from the OS grid. They are concerned that the objects can be taken apart once built, that they don't harm the environment if discarded, and that anything designed with the system will be interoperable.
 
 ## Requirements:
 
-1. Parts should be simple \( avoid parts that are difficult to construct or provide instructions for constructing.\)
-
-2. A kit should have more than one part \(parts may be the same\)
+1. Parts should be simple \(avoid parts that are difficult to construct or provide instructions for constructing\).
+2. A kit should have more than one part \(parts may be the same\).
+3. Materials should not cost more than $10.
+4. You should be able to create three distinctly different objects with the same kit, tools, and assembly processes.
+5. You must design everything, and everything needed for another person to follow your instructions must be included in the PDF. This includes templates.
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
-
-**Develop phase questions:**
-
-1. Template for users to build their own modular toys?
-2. What kind of toys will be made?
-3. What raw building materials are used, and for what parts?
-4. What tools and fasteners will be needed?
-5. Will there be standard or modular parts?
-6. What making processes will the users undergo?
-7. What are the instructions?
-
-**Deliver phase notes:**
-
-1. Prototype
-2. Test run/feedback/refine
-
-**Documentation:**
-
-The kit should be documented in a photography style known as _**knolling**_: [Examples](http://theultralinx.com/2013/09/50-amazing-examples-knolling-photography/)
 

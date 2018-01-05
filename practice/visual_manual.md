@@ -8,7 +8,7 @@ For this activity, you will create a visual "How To" guide that explains how to 
 1. Select something you've struggled to understand for which you would like to create a visual how-to guide
   - Practice KISS.
 2. Choose the **graphic structure** that best suits the kind of how-to guide you are making. This could be any of the following:
-  - storyboard
+  - storyboard  
   - flow-chart
   - timeline
   - diagram

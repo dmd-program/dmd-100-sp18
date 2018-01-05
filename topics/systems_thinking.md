@@ -1,4 +1,4 @@
-![](/assets/DeathtoStock_Lonely_Commute-05@2x.jpg)
+![Aerial photo of a city intersection](/assets/DeathtoStock_Lonely_Commute-05@2x.jpg)
 
 # Systems thinking
 
@@ -10,14 +10,14 @@ If you consider that an expert in any given field is an expert on the system or 
 
 ## Cradle to Cradle
 
-When thinking about a model to aid sustainable design, the term **Cradle to Cradle Design** was coined by German chemist Michael Braungart and U.S. architect William McDonough in their book, _Cradle to Cradle: Remaking the Way We Make Things._ Cradle to Cradle Design accounts for wellness, social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services. The Cradle to Cradle Design model is a shift in perspective on the traditional product lifecycle – known as Cradle to Grave; a model where products eventually ceases to be useful – and instead imagine how products can be made of biological or technical "nutrients" that are reused over and over. As a proof of concept, their 2002 book was printed on special synthetic paper, intended to be an example of a technical nutrient.
+When thinking about a model to aid sustainable design, the term **Cradle to Cradle Design** was coined by German chemist Michael Braungart and U.S. architect William McDonough in their book, _Cradle to Cradle: Remaking the Way We Make Things._ Cradle to Cradle Design accounts for wellness, social, economic, and ecological systems in the design model when producing consumer products, infrastructure, and services. The Cradle to Cradle Design model is a shift in perspective on the traditional product lifecycle – known as Cradle to Grave, a model where products eventually cease to be useful – and instead imagine how products can be made of biological or technical "nutrients" that are reused over and over. As a proof of concept, their 2002 book was printed on special synthetic paper, intended to be an example of a technical nutrient.
 
 > This book is not a tree.  
 > It is printed on synthetic "paper" and bound into a book format developed by innovative book packager Charles Melcher of Melcher Media. Unlike the paper which we are familiar, it does not use any wood pulp or cotton fiber but is made from plastic resins and inorganic fillers. This material is not only waterproof, extremely durable, and \(in many localities\) recyclable by conventional means; it is also a prototype for the book as a "technical nutrient," that is, as a product that can be broken down and circulated infinitely in industrial cycles–made and re-made as "paper" or other products.\[1\]
 
 ## The "S" word
 
-The [Designers Accord](http://designersaccord.org/) was a five year project that culminated in the development of guiding principles and methodologies for integrating sustainability into design and teaching. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology included:
+The [Designers Accord](http://designersaccord.org/) was a five-year project that culminated in the development of guiding principles and methodologies for integrating sustainability into design and teaching. This was done through design community engagement, networking, and by inspiring designers to share case studies, best practices, and ideas at hosted events. The guiding methodology numbered items:
 
 1. Publicly declare participation in the Designers Accord.
 2. Initiate a dialogue about environmental and social impact and sustainable alternatives with each and every client. Rework client contracts to favor environmentally and socially responsible design and work processes. Provide strategic and material alternatives for sustainable design.
@@ -27,42 +27,34 @@ The [Designers Accord](http://designersaccord.org/) was a five year project that
 
 > The “S” word
 >
-> Talking about sustainable design is not the best way to talk about it
+> Talking about sustainable design is not the best way to talk about it.
 >
 > Focus on leadership skills, participation, transparency, engagement, networks, human centered design, respect, and active listening. Ask students to rethink current paradigms and to envision a better future. \[1\]
 
 The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact.
 
-## A speculative example
+## A speculative hyper-object
 
 Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
 [How Big Is the "Great Pacific Garbage Patch"? Science vs. Myth](http://response.restoration.noaa.gov/about/media/how-big-great-pacific-garbage-patch-science-vs-myth.html) \(External Website\)
 
-Essentially, there is a ton of discarded waste plastic that has found its way into the Pacific Ocean, and it is negatively impacting wildlife. Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but it sounds reasonable enough for the purposes of this example:
+Essentially, there is a ton of discarded waste plastic that has found its way into the Pacific Ocean, and it is negatively impacting wildlife. Let's explore this issue through a bit of speculation. Where did the plastic come from, how did it find its way to the sea, and who might have been involved in this process? To answer these questions, we would have to imagine the shape and scope of the networked system. No actual research was performed for this speculation, but the proposed ideas are reasonable enough for the purposes of this example. In a real study, citations would certainly be required:
 
 1. Industrial producers: **Material design, Engineering Design**
-
    * Availability of cheap crude-oil makes plastic easy and cheap to produce
-
 2. Business and economics: **Business and Product Design**
-
-   * Financial markets trade heavily in crude oil
+   * Financial markets trade heavily in crude oil \(from which plastic is made\)
    * Availability of cheap plastic materials and mass production technology
    * Business goals and values do not align with minimizing impact to existing ecological system
-
-3. Public consensus:** Marketing design**
-
+3. Public consensus:** Public Relations and Marketing design**
    * Ad campaigns infiltrate popular culture
    * Wastefulness is widely accepted and normalized
-
+   * Marketing campaigns are effective at selling products
 4. Waste management processes: **Service Design**
-
    * Wastefulness is good for business
    * No real long-term ecological considerations for disposal
-
 5. Government: **Policy Design**
-
    * Special interest lobbying prevents ecological policies from hindering the sale of products
    * Issue not prioritized by society
    * Recycling initiatives are not timely and universally ineffective
@@ -71,7 +63,7 @@ Supposing this list was accurate, the next step would to be to better understand
 
 Critic Timothy Morton calls these systems **hyperobjects**. They are objects so large and complex, that humans can not perceive them in their entirety.
 
-> The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” Global warming is a classic example of a hyperobject: it’s everywhere and nowhere, too encompassing to think about. Global markets, too. But naming a hyperobject alone is of limited use; human cognition knows all too well how to file such imminent imponderables away, on a “to-do” list that’s never consulted again. \[3\]
+> "The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” Global warming is a classic example of a hyperobject: it’s everywhere and nowhere, too encompassing to think about. Global markets, too. But naming a hyperobject alone is of limited use; human cognition knows all too well how to file such imminent imponderables away, on a “to-do” list that’s never consulted again. \[3\]
 
 ## Citation
 
