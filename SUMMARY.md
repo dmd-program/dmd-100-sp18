@@ -116,8 +116,8 @@
     * [Pathway design](lessons/co-generative_design/pathway.md)
   * Readings
     * [Chapter 12. Liberty as Knowledge Design](reading-reflections/chapter_12_liberty_as_knowledge_design.md)
-    * [Chapter 13. Corporate Redesign and the Business of Knowledge](practice/corporate_redesign_and_the_business_of_knowledge.md)
-    * [Chapter 14. Designing Time](practice/designing_time.md)
-    * [Chapter 15. The Design of Private Knowledge](practice/the_design_of_private_knowledge.md)
+    * [Chapter 13. Corporate Redesign and the Business of Knowledge](reading-reflections/chapter_13_corporate_redesign_and_the_business_of_knowledge.md)
+    * [Chapter 14. Designing Time](reading-reflections/chapter_14_designing_time.md)
+    * [Chapter 15. The Design of Private Knowledge](reading-reflections/chapter_15_the_design_of_private_knowledge.md)
 * [License](LICENSE.md)
 
