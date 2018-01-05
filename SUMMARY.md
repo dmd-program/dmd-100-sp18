@@ -43,7 +43,7 @@
     * [Chapter 3. What Design and Truth Say About Each Other](reading-reflections/chapter_3_what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](reading-reflections/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
   * [Project](project.md)
-    * [Ritual Project Introduction](projects/ritual.md)
+    * [Ritual Project Introduction](projects/ritual/ritual_project.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
     * [Discover: Journey map](projects/ritual/discover_journey_map.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
