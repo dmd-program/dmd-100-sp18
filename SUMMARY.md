@@ -111,7 +111,7 @@
 * [Lesson 5: Self design](lessons/co-generative_design.md)
   * [Listening](lessons/co-generative_design/listening.md)
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
-    * [Freakonomics: How to Become Great at Just About Anything](freakonomics-how-to-become-great-at-just-about-anything.md)
+    * [Freakonomics: How to Become Great at Just About Anything](listening/freakonomics-how-to-become-great-at-just-about-anything.md)
   * [Activities](lessons/co-generative_design/activities.md)
     * [Pathway design](lessons/co-generative_design/pathway.md)
   * Readings
