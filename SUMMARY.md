@@ -21,7 +21,7 @@
   * Activities
     * [Daily design journal](practice/daily_design_journal.md)
     * [Daily design journal: Report in](practice/daily-design-journal-report-in.md)
-  * Listening
+  * [Listening](lessons/listening.md)
     * [Creative Mornings: Design Is Magical](listening/creative_mornings_design_is_magical.md)
     * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)
   * Discussions
