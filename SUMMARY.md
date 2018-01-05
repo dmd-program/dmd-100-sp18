@@ -109,7 +109,7 @@
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
-    * [Deliver: Open design](projects/open_design/deliver_open_toy.md)
+    * [Deliver: Open design](projects/open_design/deliver_open_design.md)
 * [Lesson 5: Self design](lessons/introduction-self-design.md)
   * [Listening](lessons/co-generative_design/listening.md)
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
