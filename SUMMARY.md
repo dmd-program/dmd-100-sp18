@@ -39,7 +39,7 @@
     * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
   * Readings
     * [Chapter 3. What Design and Truth Say About Each Other](practice/what_design_and_truth_say_about_each_other.md)
-    * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
+    * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](reading-reflections/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
   * [Project](project.md)
     * [Ritual Project Introduction](projects/ritual.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
