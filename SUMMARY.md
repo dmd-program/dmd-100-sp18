@@ -45,7 +45,7 @@
   * [Project](project.md)
     * [Ritual Project Introduction](projects/ritual.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
-    * [Discover: Journey map](project/ritual/discover_journey_map.md)
+    * [Discover: Journey map](projects/ritual/discover_journey_map.md)
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Brainstorm](projects/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
