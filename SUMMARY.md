@@ -99,7 +99,7 @@
     * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
   * [Project](lessons/open_design/project.md)
-    * [Open Kit Project Introduction](projects/open_design/open_source_toy.md)
+    * [Open Design Project Introduction](projects/open_design/open_design_project.md)
     * [Discover: Research](projects/open_design/discover_secondary_research.md)
     * [Discover: Resources](projects/open_design/discover_primary_research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
