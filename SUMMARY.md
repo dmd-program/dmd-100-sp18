@@ -66,7 +66,7 @@
     * [Andrew Stanton: The clues to a great story](lessons/narrative/andrew-stanton-the-clues-to-a-great-story.md)
   * Readings
     * [Chapter 5. Edsel's Law: How Bad Design Happens](reading-reflections/chapter_5_edsels_law_how_bad_design_happens.md)
-    * [Chapter 6. Designs of Darkness](practice/bad_design.md)
+    * [Chapter 6. Designs of Darkness](reading-reflections/chapter_6_designs_of_darkness.md)
     * [Chapter 7. Face to Face with Design](practice/face_to_face_with_design.md)
   * Project
     * [Hypertext Narrative introduction](projects/narrative/narrative_project_social_design_option.md)
