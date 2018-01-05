@@ -1,2 +1,0 @@
-# Discuss: Open Toy Critique
-
