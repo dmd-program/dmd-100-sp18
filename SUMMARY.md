@@ -96,7 +96,7 @@
   * Readings
     * [Chapter 8. Giorgio Vasari and the Permutations of Design](reading-reflections/chapter_8_giorgio_vasari_and_the_permutations_of_design.md)
     * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](reading-reflections/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r.md)
-    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](practice/in_jeffersons_footsteps_modes_of_self-design.md)
+    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](reading-reflections/chapter_10_in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](practice/jeffersons_gravestone_metaphorical_extensions_of_d.md)
   * [Project](lessons/open_design/project.md)
     * [Open Design Project Introduction](projects/open_design/open_design_project.md)
