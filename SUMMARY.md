@@ -9,6 +9,7 @@
   * [Projects](introduction/projects.md)
   * [Feedback and critique](introduction/feedback-and-critique.md)
   * [Technology](introduction/technology.md)
+  * [Writing Guidelines](introduction/writing_guidelines.md)
 * [Lesson 1: What is design?](lessons/introduction-what-is-design.md)
   * [Topics](lessons/topics.md)
     * [What is design?](topics/what_is_design.md)
