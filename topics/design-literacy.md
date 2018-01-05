@@ -1,7 +1,3 @@
-Written by Dick Rijken and published in _Open Design Now!_
-
----
-
 # DESIGN LITERACY: ORGANIZING SELF-ORGANIZATION / DICK RIJKEN
 
 ## The position of knowledge and expertise is changing radically, particularly in relation to how design literacy is affected when confronted with digital tools and media. Dick Rijken analyses design literacy on three levels – strategic, tactical, and operational – and examines the requirements of open design for developing a design vision, design choices and design skills.
@@ -95,6 +91,4 @@ Nowadays, STEIM is an important node in a world-wide knowledge network. There ar
 Many people who visit STEIM don’t just leave with an instrument; in their time there, they have learned how an instrument is made. And the instrument is just the beginning; there needs to be substantial time spent in learning to play it, as well as resisting the temptation to tweak it further. This represents a big risk at the tactical choice level: know when to stop modifying and start using a product! This is expertise that transcends the operational level. This is years and years of experience feeding into how musicians are currently coached and educated.
 
 [www.steim.org](http://www.steim.org/)
-
-This article is published with a Creative Commons 3.0 License. _Open Design Now!_. URL: [http://opendesignnow.org/index.html%3Fp=423.html](http://opendesignnow.org/index.html%3Fp=423.html). Accessed Jan 13th, 2017
 
