@@ -7,7 +7,7 @@ What is it that makes your toy modular? Is the the shape of the pieces? Is it th
 Let's look at how the [Open Structures project](http://beta.openstructures.net/pages/9) has defined their design guidelines. (1) Design for disassembly, (2) Design with recyclable materials, (3) Design from the OS grid. As you can see, they are concerned that the objects can be taken apart once built, that they don't harm the environment if discarded, and that anything designed with the system will be interoperable.
 
 ## Instructions
-1. Create a list of the design principles that govern your modular toy's parts, methods for creation and assembly, and any other considerations that you are concerned with.
+1. Create a list of the design principles that govern your modular toy, methods for creation and assembly, and any other considerations that you are concerned with.
 
 ## Report in
 
