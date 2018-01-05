@@ -32,7 +32,7 @@
     * [Inclusive design](topics/inclusive-design.md)
     * [Critical design](topics/critical_design.md)
     * [Visual design](topics/visual_design.md)
-    * [Identity design](identity-design.md)
+    * [Identity design](topics/identity-design.md)
     * [Semiotics](topics/semiotics.md)
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
