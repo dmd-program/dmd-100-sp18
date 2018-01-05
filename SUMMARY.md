@@ -86,7 +86,7 @@
 * [Lesson 4: Open design](lessons/introduction-open-design.md)
   * [Topics](lessons/open_design/topics.md)
     * [Open Design](topics/open_design.md)
-    * [Into the Open](lessons/into-the-open.md)
+    * [Into the Open](topics/into-the-open.md)
     * [Orchestral Manoeuvres in Design](topics/orchestral-manoeuvres-in-design.md)
     * [Authors and Owners](topics/authors-and-owners.md)
     * [The Generative Bedrock of Open Design](topics/the-generative-bedrock-of-open-design.md)
