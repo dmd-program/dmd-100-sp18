@@ -65,7 +65,7 @@
     * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
   * Watching
     * [Creative Mornings: Jordan Tannahill](lessons/narrative/creative-mornings-jordan-tannahill.md)
-    * [Andrew Stanton: The clues to a great story](lessons/narrative/andrew-stanton-the-clues-to-a-great-story.md)
+    * [Andrew Stanton: The clues to a great story](watching/andrew-stanton-the-clues-to-a-great-story.md)
   * Readings
     * [Chapter 5. Edsel's Law: How Bad Design Happens](reading-reflections/chapter_5_edsels_law_how_bad_design_happens.md)
     * [Chapter 6. Designs of Darkness](reading-reflections/chapter_6_designs_of_darkness.md)
