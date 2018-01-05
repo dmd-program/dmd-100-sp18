@@ -17,7 +17,7 @@
     * [Critical thinking](topics/critical_thinking.md)
     * [Design process](topics/design-process.md)
   * [Readings](lessons/readings.md)
-    * [Chapter 1&2. Sen Rikyu and the Paradox of Innovation](practice/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
+    * [Chapter 1&2. Sen Rikyu and the Paradox of Innovation](reading-reflections/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
   * Activities
     * [Daily design journal](practice/daily_design_journal.md)
     * [Daily design journal: Report in](practice/daily-design-journal-report-in.md)
