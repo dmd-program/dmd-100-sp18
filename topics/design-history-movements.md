@@ -6,16 +6,19 @@
 
 Original design for Trellis wallpaper by William Morris, 1862. Public Domain [1]
 
-Artists:
+### Artists
 
 - [William Morris](https://en.wikipedia.org/wiki/William_Morris)
 - [Charles Robert Ashbee](https://en.wikipedia.org/wiki/Charles_Robert_Ashbee)
 - [T. J. Cobden Sanderson](https://en.wikipedia.org/wiki/T._J._Cobden-Sanderson) 
 - [Walter Crane](https://en.wikipedia.org/wiki/Walter_Crane)
 
-Architecture:
+### Works
 
-- [Red House by architect Philip Webb and designer William Morris](https://en.wikipedia.org/wiki/Red_House,_Bexleyheath)
+- Architecture: [Red House by architect Philip Webb and designer William Morris](https://en.wikipedia.org/wiki/Red_House,_Bexleyheath)
+- Textile: 'Trellis' wallpaper, 1864
+
+
 
 ## 1880-1910: Art Nouveau
 
