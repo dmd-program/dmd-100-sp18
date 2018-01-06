@@ -18,19 +18,34 @@ Original design for Trellis wallpaper by William Morris, 1862. Public Domain [1]
 - Architecture: [Red House by architect Philip Webb and designer William Morris](https://en.wikipedia.org/wiki/Red_House,_Bexleyheath)
 - Textile: 'Trellis' wallpaper, 1864
 
-
-
 ## 1880-1910: Art Nouveau
 
 ## 1880-1940: Modernism
 
+### Artists
+
+- Le Corbusier
+- Marcel Breuer
+- Ludwig Mies van der Rohe
+
 ## 1910-1945: Futurism
+
+### Artists
+
+- Marrinetti
+- Alan Kegler
 
 ## 1910-1940: Art Deco
 
 ## 1920-1934: Bauhaus
 
+Staatliches Bauhaus, meaning "Architecture House," is famous for the for the approach to design that it publicized and taught.
+
 ## 1925-1930: Surrealism
+
+### Artists
+
+- Dali
 
 ## 1930-1950: Streamlining
 
