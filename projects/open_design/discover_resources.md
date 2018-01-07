@@ -2,7 +2,7 @@
 
 # Discover: Resources
 
-In this activity, you will be gathering information about the raw materials available to complete the project. Remember, you have a budget between $0 and $10. Ideally, someone with no financial resources should be able to reproduce your design. Please do not use combustable or explosive materials like matches, or materials that would most likely injure someone such as shards of glass or harmful chemicals. Safety first.
+In this activity, you will be gathering information about the raw materials available to complete the project. Remember, the project brief mentioned that you have a budget between $0 and $10. Ideally, someone with limited financial resources should be able to reproduce your design. Please do not use combustable or explosive materials like matches, or materials that would most likely injure someone such as shards of glass or harmful chemicals. Safety first.
 
 ## Instructions
 
@@ -11,4 +11,6 @@ In this activity, you will be gathering information about the raw materials avai
 
 ## Post work to the Studio
 
-1. Upload photographs of materials.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. Upload 5 to 10 `.jpg` or `.png` photographs of materials. **Do not take screenshots or include images from websites. These materials should be local to you.**
