@@ -1,6 +1,6 @@
 ![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
 
-# Discover: Systems Research
+# Discover: Modular design research
 
 This assignment asks you to look at objects not as whole "things," but rather as a sum of parts. It also asks you to consider the user experience of the person involved with building a "thing." To do this, explore and explain some aspects **modular systems** by investigating why products and objects are designed and constructed the way they are. Areas of investigation could include architecture, engineering, product and furniture (industrial) design, and others. 
 
@@ -8,17 +8,19 @@ Find images of interesting or inspiring ways of making, attaching, and combining
 
 ## Presentation
 
+**Presentation format template:** https://docs.google.com/presentation/d/1cwoQfh5y5k-A6tzx7rjda8tW8RR_XJ2H6k36OIU6nPY/edit?usp=sharing
+
 ### Requirements
 
 You will produce a presentation with the following elements:
 
 1. Title Page
-   1. Systems Research
+   1. Modular Design Research
    2. By: YOUR NAME 
    3. Date
 2. Definition
    1. What is "modular design"?
-3. What categories of modular systems did you find? You can develop your own categories? Please include at least four categories.
+3. What categories of modular design did you find? You can develop your own categories? Please include at least four categories.
    1. Category name (you can invent this if there isn't a good one)
    2. What are the affordances and benefits of this category?
    3. What are the drawbacks and limitations of this system?
