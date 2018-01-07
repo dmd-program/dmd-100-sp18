@@ -49,6 +49,8 @@ Staatliches Bauhaus, meaning "Architecture House," is famous for the for the app
 
 ## 1930-1950: Streamlining
 
+- Robert Heller
+
 ## 1930-1960 & 1990-Present: Organic Design
 
 ## 1935-Present: Scandinavian Modern
