@@ -32,8 +32,6 @@ Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of
 
 This book is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Some content is taken from other sources and cited throughout. However, this work is a living draft, presented as is, and may be changed or updated without notice.
 
-
-
 ## Contributing
 
 Anyone can recommend additions or alterations to this course. Please, submit a [pull request on github.com](https://github.com/dmd-program/dmd-100-sp17) or file an issue in the [issue queue](https://github.com/dmd-program/dmd-100-sp17/issues).
