@@ -22,7 +22,7 @@ You will produce a presentation with the following elements:
    1. Category name (you can invent this if there isn't a good one)
    2. What are the affordances and benefits of this category?
    3. What are the drawbacks and limitations of this system?
-   4. What materials could be used or substituted from your resources research?
+   4. What materials could be used or substituted from your resources research? Include images from your resources discovery.
    
 Include between 6 to 20 slides. Pease include images where possible.
 
