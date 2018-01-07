@@ -29,10 +29,6 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
 ### Visible attribution
 
-```
-“<a href="https://www.gitbook.com/book/dmd-program/dmd-100-sp18/details">DMD 100: Digital Multimedia Design Foundations</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.
-
-```
-
 “[DMD 100: Digital Multimedia Design Foundations](https://www.gitbook.com/book/dmd-program/dmd-100-sp18/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
+`“<a href="https://www.gitbook.com/book/dmd-program/dmd-100-sp18/details">DMD 100: Digital Multimedia Design Foundations</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
