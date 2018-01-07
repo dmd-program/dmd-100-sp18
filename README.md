@@ -23,12 +23,16 @@ Michael Collins, Assistant Professor, Penn State School of Visual Arts
 
 Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of Arts and Architecture
 
-**Additional Support**
-
-Special thanks to:
+**Special thanks to:**
 
 * Graeme Sullivan, Director of the Penn State School of Visual Arts, for the inspiring conversations, book recommendations, and unwavering moral support;
-* Linda Collins for proofreading over 200 pages.
+* Linda Collins, for proofreading over 200 pages.
+
+## License
+
+This book is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Some content is taken from other sources and cited throughout. However, this work is a living draft, presented as is, and may be changed or updated without notice.
+
+
 
 ## Contributing
 
