@@ -50,6 +50,8 @@ Staatliches Bauhaus, meaning "Architecture House," is famous for the for the app
 ## 1930-1950: Streamlining
 
 - Robert Heller
+- Otto Kuhler
+- Raymond Loewy
 
 ## 1930-1960 & 1990-Present: Organic Design
 
