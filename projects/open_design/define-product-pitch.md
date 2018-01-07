@@ -11,7 +11,7 @@ Create a document file with the following:
 1. Your Name
 2. Date
 3. Title
-4. Description of existing toy:
+4. Description of existing toy type:
    1. Toy name or type (choose one)
       * Human or animal figures
       * Architectural models
@@ -20,7 +20,7 @@ Create a document file with the following:
       * Puzzle or game
       * Integrated electronics
       * other
-   2. Describe the basic function or essence of the toy.
+   2. Describe the basic function or of the toy.
    3. Who is the toy designed for?
    4. What does it do? How does it work?
    5. What materials is it made of?
