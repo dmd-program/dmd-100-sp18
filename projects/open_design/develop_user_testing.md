@@ -20,4 +20,6 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 
 ## Post work to the Studio
 
-1. After you are done testing, submit a `.doc` of your test notes. Be sure to include your name on the document.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. After you are done testing, submit a typed `.doc` of your test notes. Be sure to include your name on the document.
