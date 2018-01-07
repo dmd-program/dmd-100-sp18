@@ -2,7 +2,7 @@
 
 # Discover: Modular design research
 
-This assignment asks you to look at objects not as whole "things," but rather as a sum of parts. It also asks you to consider the user experience of the person involved with building a "thing." To do this, explore and explain some aspects **modular systems** by investigating why products and objects are designed and constructed the way they are. Areas of investigation could include architecture, engineering, product and furniture (industrial) design, and others. 
+This assignment asks you to look at objects not as whole "things," but rather as a sum of parts. It also asks you to consider the user experience of the person involved with building a "thing." To do this, explore and explain some aspects **modular design** by investigating why products and objects are designed and constructed the way they are. Areas of investigation could include architecture, engineering, product and furniture (industrial) design, and others. 
 
 Find images of interesting or inspiring ways of making, attaching, and combining parts. You will create a presentation of your findings to help others understand how modular systems work.
 
