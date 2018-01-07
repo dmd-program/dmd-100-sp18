@@ -1,6 +1,6 @@
 ![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
 
-# Discover: Toy Research
+# Discover: Toy design research
 
 This assignment will ask you to explore and explain some aspects the existing market for toys. To do this, first research toys on the Internet and in person at stores. You will create a presentation of your findings to help others understand how modular kits work. 
 
