@@ -104,7 +104,7 @@
     * [Open Design Project Introduction](projects/open_design/open_design_project.md)
     * [Discover: Research](projects/open_design/discover_research.md)
     * [Discover: Resources](projects/open_design/discover_resources.md)
-    * [Discover: Systems Research](projects/open_design/discover-systems-research.md)
+    * [Discover: Modular Design Research](projects/open_design/discover-modular-design-research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
     * [Develop: MVP Prototype](projects/open_design/develop_mvp_prototype.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
