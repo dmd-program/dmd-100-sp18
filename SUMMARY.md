@@ -81,7 +81,7 @@
     * [Deliver: Hypertext narrative draft 1](projects/narrative/deliver_hypertext_story.md)
     * [Tutorials](projects/narrative/tutorials.md)
       * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
-    * [Deliver: Feedback](projects/narrative/develop-feedback.md)
+    * [Develop: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Hypertext narrative draft 2](projects/narrative/deliver_iterate.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
