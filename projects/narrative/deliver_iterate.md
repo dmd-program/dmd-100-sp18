@@ -1,10 +1,10 @@
 ![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
 
-# Deliver: Hypertext Story Draft 2
+# Deliver: Hypertext narrative (draft 2)
 
 Iterative improvement is the key to good design. Now that you have peer feedback, tweak, change, and improve your work. Re-read your story and identify where you might be able to further develop characters, increase tension and drama, introduce dialogue, alter story pacing, smooth out awkward transitions, etc.
 
-In this draft, consider the role of style in your narrative. 
+In this draft, consider the role of style and emerging techniques in your narrative. See examples [here](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/List_of_narrative_techniques.html).
 
 ## Instructions
 

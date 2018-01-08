@@ -82,7 +82,7 @@
     * [Tutorials](projects/narrative/tutorials.md)
       * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
     * [Deliver: Feedback](projects/narrative/develop-feedback.md)
-    * [Deliver: Iterate](projects/narrative/deliver_iterate.md)
+    * [Deliver: Hypertext narrative draft 2](projects/narrative/deliver_iterate.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Open design](lessons/introduction-open-design.md)
@@ -112,6 +112,7 @@
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
+    * [Deliver: Open Design](projects/open_design/deliver_open_design.md)
 * [Lesson 5: Self design](lessons/introduction-self-design.md)
   * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
