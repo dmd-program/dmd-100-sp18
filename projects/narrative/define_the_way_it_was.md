@@ -11,4 +11,6 @@ In this activity, you will create a short synopsis sentence to guide the story n
 
 ## Post work to the Studio
 
-1. Write the sentence in the assignment submission text box.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. Write the sentence in the assignment submission text box. Do not upload a file of any kind.
