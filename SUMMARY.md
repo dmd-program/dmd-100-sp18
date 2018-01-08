@@ -30,12 +30,13 @@
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * [Lesson 2: Visual and interaction design](lessons/introduction-visual-and-interaction-design.md)
   * Topics
-    * [Interaction design](topics/interaction_design.md)
+    * [Semiotics](topics/semiotics.md)
     * [Inclusive design](topics/inclusive-design.md)
+    * [Interaction design](topics/interaction_design.md)
     * [Critical design](topics/critical_design.md)
     * [Visual design](topics/visual_design.md)
     * [Identity design](topics/identity-design.md)
-    * [Semiotics](topics/semiotics.md)
+    
   * Watch
     * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
   * Listening
