@@ -32,6 +32,8 @@ There are many descriptions available of what a ritual is and how it functions. 
 
 ## Post work to the Studio
 
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
 1. Submit the Storyboard to the studio as a scanned or well-photographed image.
 
 
