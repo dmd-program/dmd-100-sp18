@@ -18,6 +18,10 @@ According to the most [recent and comprehensive data](http://www.worldbank.org/e
 
 Originally conceived by the Institute Without Boundaries, the [Open Structures project](http://beta.openstructures.net/pages/9) has defined design guidelines to aid the users of the design framework: \(1\) Design for disassembly, \(2\) Design with recyclable materials, \(3\) Design from the OS grid. They are concerned that the objects can be taken apart once built, that they don't harm the environment if discarded, and that anything designed with the system will be interoperable. One project which also fits these guidelines is called [OffBits](https://laughingsquid.com/the-offbits-adorable-open-source-toy-kits-for-building-malfunctioning-robots-from-assorted-hardware-parts/), an open-source toy designed by a team in Tel Aviv that incorporates community challenges and up-cycled parts.
 
+## Previous student work
+
+"Magnection" by Daniel Bershefsky, 2017: [Download (10MB)](https://github.com/dmd-program/work-examples/blob/master/dmd100-ritual-project/Ritual-Final-Prototype.zip?raw=true)
+
 ## Requirements:
 
 1. Parts should be simple \(avoid parts that are difficult to construct or provide instructions for constructing\).
