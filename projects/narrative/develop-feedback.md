@@ -13,7 +13,9 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
    1. Who/what are the characters in the story?
    2. What is occurring in the story?
    3. In what Point of View \(PoV\) is the story being narrated?
-   4. Are there any character tropes you can identify?
+   4. Are there any tropes or techniques that you can identify?
+      - [Narrative tropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/NarrativeTropes)
+      - [Narrative techniques](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/List_of_narrative_techniques.html)
    5. What is the setting or environment?
    6. What else did you notice?
 2. Analysis
