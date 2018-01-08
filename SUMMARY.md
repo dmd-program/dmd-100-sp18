@@ -12,24 +12,24 @@
   * [Writing Guidelines](introduction/writing_guidelines.md)
   * [Requirements](introduction/requirements.md)
 * [Lesson 1: What is design?](lessons/introduction-what-is-design.md)
-  * [Topics](lessons/topics.md)
+  * Topics
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
     * [Systems thinking](topics/systems_thinking.md)
     * [Critical thinking](topics/critical_thinking.md)
     * [Design process](topics/design-process.md)
-  * [Readings](lessons/readings.md)
+  * Readings
     * [Chapter 1&2. Sen Rikyu and the Paradox of Innovation](reading-reflections/chapter_1_sen_rikyu_and_the_paradox_of_innovation.md)
   * Activities
     * [Daily design journal](practice/daily_design_journal.md)
     * [Daily design journal: Report in](practice/daily-design-journal-report-in.md)
-  * [Listening](lessons/listening.md)
+  * Listening
     * [Creative Mornings: Design Is Magical](listening/creative_mornings_design_is_magical.md)
     * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)
   * Discussions
     * [End of lesson discussion](lessons/what-is-design/end_of_lesson_discussion.md)
 * [Lesson 2: Visual and interaction design](lessons/introduction-visual-and-interaction-design.md)
-  * [Topics](topics.md)
+  * Topics
     * [Interaction design](topics/interaction_design.md)
     * [Inclusive design](topics/inclusive-design.md)
     * [Critical design](topics/critical_design.md)
@@ -42,7 +42,7 @@
   * Readings
     * [Chapter 3. What Design and Truth Say About Each Other](reading-reflections/chapter_3_what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](reading-reflections/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
-  * [Project](project.md)
+  * Project
     * [Ritual Project Introduction](projects/ritual/ritual_project.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
     * [Define: Themes and insights](projects/ritual/define-insights.md)
@@ -54,7 +54,7 @@
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
-  * [Topics](lessons/narrative/topics.md)
+  * Topics
     * [Why stories?](topics/narrative.md)
     * [Story structure](topics/narrative_structure.md)
     * [Story development](topics/organizing_story_development.md)
@@ -84,7 +84,7 @@
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Open design](lessons/introduction-open-design.md)
-  * [Topics](lessons/open_design/topics.md)
+  * Topics
     * [Open Design](topics/open_design.md)
     * [Into the Open](topics/into-the-open.md)
     * [Orchestral Manoeuvres in Design](topics/orchestral-manoeuvres-in-design.md)
@@ -100,7 +100,7 @@
     * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](reading-reflections/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r.md)
     * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](reading-reflections/chapter_10_in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](reading-reflections/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d.md)
-  * [Project](lessons/open_design/project.md)
+  * Project
     * [Open Design Project Introduction](projects/open_design/open_design_project.md)
     * [Discover: Modular Design Research](projects/open_design/discover-modular-design-research.md)
     * [Discover: Resources](projects/open_design/discover_resources.md)
@@ -111,10 +111,10 @@
     * [Develop: Test](projects/open_design/develop_user_testing.md)
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
 * [Lesson 5: Self design](lessons/introduction-self-design.md)
-  * [Listening](lessons/co-generative_design/listening.md)
+  * Listening
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * [Freakonomics: How to Become Great at Just About Anything](listening/freakonomics-how-to-become-great-at-just-about-anything.md)
-  * [Activities](lessons/co-generative_design/activities.md)
+  * Activities
     * [Pathway design](practice/pathway.md)
   * Readings
     * [Chapter 12. Liberty as Knowledge Design](reading-reflections/chapter_12_liberty_as_knowledge_design.md)
