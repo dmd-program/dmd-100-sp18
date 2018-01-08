@@ -22,7 +22,7 @@ See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**
 
 ## Previous student work
 
-"Signly" by Daniel Bershefsky: [Download (10MB)](https://github.com/dmd-program/work-examples/blob/master/dmd100-ritual-project/Ritual-Final-Prototype.zip?raw=true)
+"Signly" by Daniel Bershefsky, 2017: [Download (10MB)](https://github.com/dmd-program/work-examples/blob/master/dmd100-ritual-project/Ritual-Final-Prototype.zip?raw=true)
 
 ## Materials and tools
 
