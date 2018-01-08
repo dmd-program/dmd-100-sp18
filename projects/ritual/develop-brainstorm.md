@@ -6,6 +6,8 @@ Now that you have a How Might We question, it's time to brainstorm some ideas to
 
 **Note:** If there is a timezone issue, and your group can not find an agreeable meeting time, contact your instructor.
 
+**Note 2:** If you have technical issues, please see "Solving technical issues" section.
+
 View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-brainstorm-session-LXePCzDG128wgby37An36).
 
 ![Example brainstorm on Dropbox Paper](/assets/example-brainstorm.png)
@@ -69,8 +71,14 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 ![Paper markdown download link](/assets/paper-download-link.png)
 
-
 ## Post work to the Studio
 
 1. Follow **download and export** instructions to download the brainstorm document in Markdown format. 
-2. Open the `.md` document. Copy the content of the `.md` document and paste it into the assignment submission text box.
+2. Open the `.md` document with any plaintext editing software such as [TextEdit](https://en.wikipedia.org/wiki/TextEdit) on OSX or [NotePad](https://en.wikipedia.org/wiki/Microsoft_Notepad) on Windows. Copy the content of the `.md` document and paste it into the assignment submission text box.
+
+### Solving technical issues
+
+1. Is your markdown table code broken when you upload it to Studio? Read the Table Gotchas for the [example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-brainstorm-session-LXePCzDG128wgby37An36).
+2. Are there single hashtags \(\#\)? Those are for heading styles. You can delete them or add a space and some heading text.
+3. Does nothing render at all? Check to see that there are no special emoji characters.
+4. For a full example of how to write in Markdown, [see this page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
