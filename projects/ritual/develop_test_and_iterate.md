@@ -1,6 +1,6 @@
 ![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
 
-# Develop: Test and Iterate
+# Develop: Test and review
 
 Now that your prototype is done, it is time to participate in feedback. You will be assigned a few prototypes to review. Your prototype will also be reviewed by your classmates. This is an opportunity to practice receiving and interpreting feedback. A critique of your work might be stressful at first, but it is one of the most common, and useful processes in design.
 
