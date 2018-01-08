@@ -16,7 +16,7 @@ The primary goal of this project is to apply open design concepts to creating ob
 
 According to the most [recent and comprehensive data](http://www.worldbank.org/en/publication/poverty-and-shared-prosperity), 10.7% of the world's population lives in poverty, so the easier and cheaper it is for others to create or obtain your parts, the more accessible your project will be.
 
-Originally conceived by the Institute Without Boundaries, the [Open Structures project](http://beta.openstructures.net/pages/9) has defined design guidelines to aid the users of the design framework: (1) Design for disassembly, (2) Design with recyclable materials, (3) Design from the OS grid. They are concerned that the objects can be taken apart once built, that they don't harm the environment if discarded, and that anything designed with the system will be interoperable. One project which also fits these guidelines is called [OffBits](https://laughingsquid.com/the-offbits-adorable-open-source-toy-kits-for-building-malfunctioning-robots-from-assorted-hardware-parts/), an open-source toy designed by a team in Tel Aviv that incorporates community challenges and up-cycled parts.
+Originally conceived by the Institute Without Boundaries, the [Open Structures project](http://beta.openstructures.net/pages/9) has defined design guidelines to aid the users of the design framework: \(1\) Design for disassembly, \(2\) Design with recyclable materials, \(3\) Design from the OS grid. They are concerned that the objects can be taken apart once built, that they don't harm the environment if discarded, and that anything designed with the system will be interoperable. One project which also fits these guidelines is called [OffBits](https://laughingsquid.com/the-offbits-adorable-open-source-toy-kits-for-building-malfunctioning-robots-from-assorted-hardware-parts/), an open-source toy designed by a team in Tel Aviv that incorporates community challenges and up-cycled parts.
 
 ## Requirements:
 
@@ -27,4 +27,6 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 5. Everything needed for another person to follow your instructions must be included in the PDF. This includes templates.
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
+
+
 
