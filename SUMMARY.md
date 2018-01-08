@@ -49,7 +49,7 @@
     * [Define: HMW](projects/ritual/define_hmw.md)
     * [Develop: Brainstorm](projects/ritual/develop-brainstorm.md)
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
-    * [Discover: Journey map](projects/ritual/discover_journey_map.md)
+    * [Develop: Journey map](projects/ritual/develop_journey_map.md)
     * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
