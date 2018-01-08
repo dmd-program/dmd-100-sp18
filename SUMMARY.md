@@ -102,9 +102,9 @@
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](reading-reflections/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d.md)
   * Project
     * [Open Design Project Introduction](projects/open_design/open_design_project.md)
-    * [Discover: Modular Design Research](projects/open_design/discover-modular-design-research.md)
-    * [Discover: Resources](projects/open_design/discover_resources.md)
     * [Discover: Toy Design Research](projects/open_design/discover-toy-design-research.md)
+    * [Discover: Resources](projects/open_design/discover_resources.md)
+    * [Discover: Modular Design Research](projects/open_design/discover-modular-design-research.md)
     * [Define: Product pitch](projects/open_design/define-product-pitch.md)
     * [Develop: MVP Prototype](projects/open_design/develop_mvp_prototype.md)
     * [Develop: Instructions](projects/open_design/develop_instructions.md)
