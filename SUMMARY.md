@@ -36,6 +36,8 @@
     * [Visual design](topics/visual_design.md)
     * [Identity design](topics/identity-design.md)
     * [Semiotics](topics/semiotics.md)
+  * Watch
+    * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
   * Listening
     * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
     * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
@@ -53,8 +55,6 @@
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
-  * Watch
-    * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
   * Topics
     * [Why stories?](topics/narrative.md)
