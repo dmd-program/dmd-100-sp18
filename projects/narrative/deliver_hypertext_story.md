@@ -1,6 +1,6 @@
 ![Double Diamond Deliver Phase graphic](/assets/dd-process-deliver-1200px@2x.png)
 
-# Deliver: Hypertext Story Draft
+# Deliver: Hypertext Story Draft 1
 
 In this phase, you will use a tool called Twine to create an interactive narrative from your latest narrative draft. Twine allows you to create linked decision nodes, similar to a "choose your own adventure" book where you can follow different story paths. Twine is available as a downloadable app for Linux, OSX, and Windows, or as an online editor located at [twinery.org/2](https://twinery.org/2/). You can use either to complete this project, but you will need to submit the compiled HTML story file.
 
