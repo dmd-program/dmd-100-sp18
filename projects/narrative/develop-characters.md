@@ -17,7 +17,9 @@
 
 ## Post work to the Studio
 
-1. Upload the finished characterization sheets.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. Upload the finished characterization sheets in `.jpg`, `.png`, or `.pdf` format.
 
 
 
