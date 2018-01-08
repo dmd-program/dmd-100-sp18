@@ -1,6 +1,6 @@
 ![Double Diamond Discover Phase graphic](/assets/dd-process-discover-1200px@2x.png)
 
-# Ritual Project: Interview
+# Discover: Interview
 
 Field research is a central part of the human-centered design process. You will now practice field research by finding and interviewing a person who will become your target user.
 
@@ -16,11 +16,13 @@ Field research is a central part of the human-centered design process. You will 
 
 The purpose of this interview is to better understand the day-to-day challenges that a person faces. Set up an interview. It can be a family member, a friend, a colleague at work, a student, etc. Ensure that you have at least an hour of time. The interview can be in-person, over the phone, or via video conversation. Please do not send a list of questions to your interviewee, as you will need to tailor the interview questions during the conversation. If you intend to record the interview \(not required\) you must obtain the permission of the interviewee.
 
-### Step 2: Find issues
+### Step 2: Find challenges
 
 Start the interview by asking your participant about something they do or experience every day that they find distracting, challenging, frustrating, or something they wish they didn't have to do.
 
 #### Example questions
+
+**Daily challenges:**
 
 1. Tell me about your day today or a typical day in your life.
 2. Do you find anything particularly challenging about your daily routine?
@@ -28,6 +30,16 @@ Start the interview by asking your participant about something they do or experi
 3. If you could change something about your day, what would it be?
 4. Is there something that, if only you were incredibly good at it, you could improve some aspect of your life?
    1. Why aren't you good at it? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
+
+**Life-long challenges:**
+
+1. Keeping in mind all that you have learned from your life, pretend that you are being asked this question back when you were really young. What do you want to be when you grow up?
+2. Why did you choose this answer?
+3. Is there anything preventing you from doing this now? If so, what are some of those things?
+   1. Why do you think that is? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
+4. What do you value more, **adventure** or **stability**?
+   1. Why do you think that is? \("it" should be a specific thing, see **Laddering - Five 'Why?'s**\)
+
 
 #### Laddering - Five 'Why?'s
 
