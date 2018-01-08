@@ -56,7 +56,7 @@ An excerpt from _The Design of Everyday Things: Revised and Expanded Edition_, p
 
 > The term affordance refers to the relationship between a physical object and a person (or for that matter, any interacting agent, whether animal or human, or even machines and robots). An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used. A chair affords (“is for”) support and, therefore, affords sitting. Most chairs can also be carried by a single per- son (they afford lifting), but some can only be lifted by a strong person or by a team of people. If young or relatively weak people cannot lift a chair, then for these people, the chair does not have that affordance, it does not afford lifting.
 
-From Norman's description, we can start to see the relationship between semiotics and universal design.
+From Norman's description, we can start to see a strong relationship between semiotics and inclusive design practices.
 
 # Citation
 
