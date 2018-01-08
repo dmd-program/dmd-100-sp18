@@ -19,6 +19,8 @@ For this project, you will create a hypertext fiction with an open-source applic
 
 * Twine Tutorial: [Getting Started](/topics/twine-tutorial-getting-started.md)
 
+You should include the bare minimum listed in this tutorial, but if you want to produce a more advanced hypertext narrative, see the [Twine Wiki](http://twinery.org/wiki/twine2:guide) for more details.
+
 **From the Twine community:**
 
 * Twine Guide: [Twine Wiki](http://twinery.org/wiki/twine2:guide)
@@ -33,8 +35,6 @@ For this project, you will create a hypertext fiction with an open-source applic
 ## Previous student work
 
 ["Love to Evolution"](https://cdn.rawgit.com/dmd-program/work-examples/df4d55aa/dmd100-ritual-project/love-to-evolution-narrative-project.html?raw=true) by Symphony Howlett
-
-You should include the bare minimum listed in this tutorial, but if you want to produce a more advanced hypertext narrative, see the [Twine Wiki](http://twinery.org/wiki/twine2:guide) for more details.
 
 ## Grading
 
