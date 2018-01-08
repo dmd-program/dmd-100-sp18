@@ -30,19 +30,9 @@ For this project, you will create a hypertext fiction with an open-source applic
 * [Fabricationist DeWit Remakes the World by Jedediah Berry](http://thirdarchive.net/fabricationist-dewit-remakes-the-world/)
 * [Eidolon by A.D. Jansen](http://ifarchive.jmac.org/if-archive/games/competition2014/Eidolon/Eidolon.html)
 
-### Steps to completion
+## Previous student work
 
-1. Read all lesson topics and listen to any highlighted podcasts
-2. Follow the Twine tutorial to get acquainted with building with Twine.
-   * Twine tutorial: Getting Started
-3. Complete the associated project deliverables in the Discover, Define, Develop, Deliver, Discuss design process.
-   * Discover: Word-pairs
-   * Define: Synopsis
-   * Define: Characters
-   * Develop: Story and plot elements
-   * Deliver: Hypertext Narrative
-   * Discuss: Hypertext Narrative Critique
-4. Submit frequent updates of your progress to the Studio
+["Love to Evolution"](https://cdn.rawgit.com/dmd-program/work-examples/df4d55aa/dmd100-ritual-project/love-to-evolution-narrative-project.html?raw=true) by Symphony Howlett
 
 You should include the bare minimum listed in this tutorial, but if you want to produce a more advanced hypertext narrative, see the [Twine Wiki](http://twinery.org/wiki/twine2:guide) for more details.
 
