@@ -24,4 +24,6 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 
 ## Post work to the Studio
 
-1. Upload the exported Twine HTML file.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. Upload the exported Twine `.html` file.
