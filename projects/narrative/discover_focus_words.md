@@ -41,4 +41,6 @@ Please allow at least 60-75 minutes to complete this activity.
 
 ## Post work to the Studio
 
-1. Upload photos or scans of your journal pages. Make sure that your documentation images are clear and readable.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. Upload photos or scans of your journal pages in `.jpg` or `.png` format. Make sure that your documentation images are clear and readable.
