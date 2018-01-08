@@ -48,7 +48,7 @@ There are five common interaction principles that software developers often refe
 
 ## Affordance theory
 
-Affordance theory is concerned with the idea that the possibility for action is embedded in objects and shapes. **Affordances** are the things that can be achieved with the object in question. Designers spend a great deal of time perfecting signifiers, so they may communicate what affordances exist very explicitly. For instance a coffee mug with a handle is explicitly telling the user (signifying) that it can be picked up by hand (affordance), and will be safe from hot temperatures (another affordance). Doors with improperly designed signifiers do not make it clear which way a door should swing.
+Affordance theory is concerned with the idea that the possibility for action is embedded in objects and shapes. **Affordances** are the things that can be achieved with the object in question by a particular person. Designers spend a great deal of time perfecting signifiers, so they may communicate what affordances exist very explicitly. For instance a coffee mug with a handle is explicitly telling the user (signifying) that it can be picked up by hand (affordance), and will be safe from hot temperatures (another affordance). Doors with improperly designed signifiers do not make it clear which way a door should swing.
 
 Rather famously, Don Norman was so put off by bad doors that he wrote the book, "The Design of Everyday Things."
 
