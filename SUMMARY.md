@@ -79,11 +79,11 @@
     * [Define: Synopsis](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and plot elements](projects/narrative/develop_story_and_plot.md)
     * [Develop: Characters](projects/narrative/develop-characters.md)
-    * [Develop: Hypertext narrative draft 1](projects/narrative/develop_hypertext_narrative-draft-1.md)
+    * [Develop: Hypertext narrative draft 1](projects/narrative/develop-hypertext-narrative-draft-1.md)
     * [Tutorials](projects/narrative/tutorials.md)
       * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
     * [Develop: Feedback](projects/narrative/develop-feedback.md)
-    * [Deliver: Hypertext narrative draft 2](projects/narrative/deliver_hypertext-narrative-draft-2.md)
+    * [Deliver: Hypertext narrative draft 2](projects/narrative/deliver-hypertext-narrative-draft-2.md)
   * Discussions
     * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Open design](lessons/introduction-open-design.md)
