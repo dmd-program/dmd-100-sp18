@@ -36,7 +36,6 @@
     * [Critical design](topics/critical_design.md)
     * [Visual design](topics/visual_design.md)
     * [Identity design](topics/identity-design.md)
-    
   * Watch
     * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
   * Listening
@@ -79,7 +78,7 @@
     * [Define: Synopsis](projects/narrative/define_the_way_it_was.md)
     * [Develop: Story and plot elements](projects/narrative/develop_story_and_plot.md)
     * [Develop: Characters](projects/narrative/develop-characters.md)
-    * [Deliver: Hypertext narrative](projects/narrative/deliver_hypertext_story.md)
+    * [Deliver: Hypertext narrative draft 1](projects/narrative/deliver_hypertext_story.md)
     * [Tutorials](projects/narrative/tutorials.md)
       * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
     * [Deliver: Feedback](projects/narrative/develop-feedback.md)
