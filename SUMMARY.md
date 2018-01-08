@@ -53,6 +53,8 @@
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
     * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
+  * watch
+    * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
   * Topics
     * [Why stories?](topics/narrative.md)

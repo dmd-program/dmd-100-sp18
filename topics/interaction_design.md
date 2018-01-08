@@ -46,6 +46,14 @@ Human-computer Interaction \(HCI\) is a field that emerged in the 1980s, concern
 
 There are five common interaction principles that software developers often refer to when building an interface. They dictate that an interface must be **perceivable**, **predictable**, **learnable**, **consistent**, and provide **feedback** to the user. Being perceivable means that a person, who has no prior knowledge, must be able to sense and understand an object or interface. For GUI design, this often means making the interaction possibilities visible in some way. Humans rely on predictions to navigate the world. An unpredictable environment can be frustrating, scary, and in some cases, dangerous. Design language can be used to give users cues and resources for learning. Elements that perform the same action should look and function the same way. This not only refers to visual and physical elements, but also to sound, language, and conceptual organization. Feedback is important in an interface so the user knows that something is happening.
 
+## Affordance theory
+
+Affordance theory is concerned with the idea that the possibility for action is embedded in objects and shapes. Therefore, affordances imply to the user what can be done. It can be argued that good design makes affordances explicit, for instance a coffee mug with a handle is explicitly telling the user that it can be picked up by hand, and will be safe from hot temperatures. Poor affordance design can be found in certain doors, which do not make it clear which way a door should swing.
+
+Rather famously, Don Norman rants about poorly design doors in the book, "The Design of Everyday Things."
+
+See this VOX video for a more entertaining take on the subject: https://www.youtube.com/watch?v=yY96hTb8WgI
+
 # Citation
 
 1. Adapted from: [http://myweb.lmu.edu/dondi/share/ixd/ixd-overview.pdf](http://myweb.lmu.edu/dondi/share/ixd/ixd-overview.pdf)
