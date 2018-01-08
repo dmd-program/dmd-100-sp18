@@ -20,7 +20,7 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 
 ## Previous student work
 
-"Magnection" by Daniel Bershefsky, 2017: [Download (10MB)](https://github.com/dmd-program/work-examples/blob/master/dmd100-ritual-project/Ritual-Final-Prototype.zip?raw=true)
+"Magnection" by Daniel Bershefsky, 2017: [Download (10MB)](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-open-design-project/open-design-project-instructions.pdf)
 
 ## Requirements:
 
