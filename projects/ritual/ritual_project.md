@@ -20,6 +20,10 @@ See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**
 * [Can we design rituals to improve orgs’ culture?](https://medium.com/ritual-design/can-we-design-rituals-to-improve-orgs-culture-a876e8dee1bb)
 * [The 3 most unconventional designers of 21st century — starting with Design shaman](https://medium.com/ritual-design/a-new-breed-of-21st-century-designers-b73712963b4)
 
+## Previous student work
+
+"Signly" by Daniel Bershefsky: [Download (10MB)](https://github.com/dmd-program/work-examples/blob/master/dmd100-ritual-project/Ritual-Final-Prototype.zip?raw=true)
+
 ## Materials and tools
 
 * Camera \(a smartphone camera is fine\)
