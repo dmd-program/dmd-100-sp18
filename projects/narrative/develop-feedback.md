@@ -38,5 +38,7 @@ For this task, we will use Feldman’s Model for criticism of creative works. Pl
 
 ## Post work to the Studio
 
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
 1. Post the corresponding feedback to your assigned feedback group member's assignment submission as a **comment** in Studio.
 2. Combine all the feedback you've written and upload to this assignment's submission text field or upload a MS Word document.
