@@ -43,5 +43,7 @@ Produce a document with the following items:
 
 ## Post work to the Studio
 
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
 1. Follow the document instructions.
-2. Upload the plot document.
+2. Upload the plot document in `.doc` format.
