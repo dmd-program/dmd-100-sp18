@@ -34,7 +34,7 @@ You should include the bare minimum listed in this tutorial, but if you want to 
 
 ## Previous student work
 
-["Love to Evolution"](https://cdn.rawgit.com/dmd-program/work-examples/df4d55aa/dmd100-ritual-project/love-to-evolution-narrative-project.html?raw=true) by Symphony Howlett
+["Love to Evolution"](https://cdn.rawgit.com/dmd-program/work-examples/df4d55aa/dmd100-ritual-project/love-to-evolution-narrative-project.html?raw=true) by Symphony Howlett, 2017
 
 ## Grading
 
