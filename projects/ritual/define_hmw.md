@@ -25,5 +25,7 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 
 ## Post work to the Studio
 
-1. Upload the photograph or scan of your HMW questions.
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
+1. Upload the photograph or scan of your HMW questions in `.jpg` or `.png` format.
 
