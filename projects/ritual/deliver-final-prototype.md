@@ -9,6 +9,8 @@
 
 ## Post work to the Studio
 
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
 1. Upload a `prototype-USERID.zip` file of the prototype.
 2. Upload a `changelog.doc` with all changes that were made.
 

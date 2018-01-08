@@ -13,6 +13,8 @@ Now that your prototype is done, it is time to participate in feedback. You will
 
 ## Post work to the Studio
 
+Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+
 1. Submit your feedback as a comment to your group members' assignments on their Studio Prototype submission.
 
 
