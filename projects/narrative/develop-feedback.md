@@ -1,3 +1,6 @@
+![Double Diamond Develop Phase graphic](/assets/dd-process-develop-1200px@2x.png)
+
+
 # Develop: Feedback
 
 You will now evaluate assigned peer work and provide feedback.

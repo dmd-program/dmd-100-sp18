@@ -53,7 +53,7 @@
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
     * [Develop: Prototype](projects/ritual/develop_prototype.md)
-    * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
+    * [Develop: Test and review](projects/ritual/develop_test_and_review.md)
     * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
   * Topics
