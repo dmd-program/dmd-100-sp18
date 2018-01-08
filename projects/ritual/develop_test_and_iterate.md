@@ -9,6 +9,7 @@ Now that your prototype is done, it is time to participate in feedback. You will
 1. **Provide feedback** to your assigned prototypes based on the following criteria:
    1. Are you able to clearly understand the relationship between the app and the ritual? Why or why not?
    2. Does the app seem integral to the ritual? Why?
+   3. What affordances does that app provide for the user.
 2. **Read the feedback you have been given.** To plan a course of action, you can categorize what was said in four categories: compliment, advice, criticism, and suggestion. Based on which category the feedback lands, you can analyze how to make decisions to improve your work.
 
 ## Post work to the Studio
