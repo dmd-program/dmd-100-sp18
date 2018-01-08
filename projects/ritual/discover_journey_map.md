@@ -2,7 +2,7 @@
 
 # Discover: Journey Map
 
-A journey map is great way to visualize an entire process of an interaction. By visualizing each step, you will better understand the nuances of an experience.
+A journey map is great way to visualize an entire process of an interaction. By visualizing each step, you will better understand the nuances of an experience. Contextualize the work from your storyboard
 
 **Example steps for a journey map: Mowing the lawn**
 

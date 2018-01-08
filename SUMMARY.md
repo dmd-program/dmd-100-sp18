@@ -51,8 +51,9 @@
     * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
     * [Discover: Journey map](projects/ritual/discover_journey_map.md)
     * [InvisionApp tutorials](projects/invisionapp-tutorial.md)
-    * Define: Insights
     * [Develop: Test and iterate](projects/ritual/develop_test_and_iterate.md)
+    * [Develop: Prototype](projects/ritual/develop_prototype.md)
+    * [Deliver: Final prototype](projects/ritual/deliver-final-prototype.md)
 * [Lesson 3: Storytelling](lessons/introduction-storytelling.md)
   * [Topics](lessons/narrative/topics.md)
     * [Why stories?](topics/narrative.md)
