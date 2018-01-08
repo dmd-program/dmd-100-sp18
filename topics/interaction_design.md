@@ -48,11 +48,15 @@ There are five common interaction principles that software developers often refe
 
 ## Affordance theory
 
-Affordance theory is concerned with the idea that the possibility for action is embedded in objects and shapes. Therefore, affordances imply to the user what can be done. It can be argued that good design makes affordances explicit, for instance a coffee mug with a handle is explicitly telling the user that it can be picked up by hand, and will be safe from hot temperatures. Poor affordance design can be found in certain doors, which do not make it clear which way a door should swing.
+Affordance theory is concerned with the idea that the possibility for action is embedded in objects and shapes. **Affordances** are the things that can be achieved with the object in question. Designers spend a great deal of time perfecting signifiers, so they may communicate what affordances exist very explicitly. For instance a coffee mug with a handle is explicitly telling the user (signifying) that it can be picked up by hand (affordance), and will be safe from hot temperatures (another affordance). Doors with improperly designed signifiers do not make it clear which way a door should swing.
 
-Rather famously, Don Norman rants about poorly design doors in the book, "The Design of Everyday Things."
+Rather famously, Don Norman was so put off by bad doors that he wrote the book, "The Design of Everyday Things."
 
-See this VOX video for a more entertaining take on the subject: https://www.youtube.com/watch?v=yY96hTb8WgI
+An excerpt from _The Design of Everyday Things: Revised and Expanded Edition_, page 11,
+
+> The term affordance refers to the relationship between a physical object and a person (or for that matter, any interacting agent, whether animal or human, or even machines and robots). An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used. A chair affords (“is for”) support and, therefore, affords sitting. Most chairs can also be carried by a single per- son (they afford lifting), but some can only be lifted by a strong person or by a team of people. If young or relatively weak people cannot lift a chair, then for these people, the chair does not have that affordance, it does not afford lifting.
+
+From Norman's description, we can start to see the relationship between semiotics and universal design.
 
 # Citation
 
