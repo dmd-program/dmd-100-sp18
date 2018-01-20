@@ -10,6 +10,12 @@ We find a similar definition from Dunne and Raby's, _Design Noir: The Secret Lif
 
 > Critical design is related to Haute couture, concept cars, design propaganda, and visions of the future, but its purpose is not to present the dreams of industry, attract new business, anticipate new trends or test the market. Its purpose is to stimulate discussion and debate amongst designers, industry and the public about the aesthetic quality of our electronically mediated existence.\[9\]
 
+[_The Uncomfortable_](https://www.theuncomfortable.com/), a collection of bad product designs created by architect Katerina Kamprani, explores what would happen if the fundamental functional properties of products were altered or thwarted. The resulting collection of objects manages to create objects that are both serious and funny.
+
+>My goal is to deconstruct the invisible design language of simple everyday objects and tweak their fundamental properties in order to surprise you and make you laugh. But also to help you appreciate the complexity and depth of interactions with the simplest of objects around us.
+>
+>Katerina Kamprani [10]
+
 ## Speculative design
 
 If discursive design is "design as thought catalyst," then speculative design is design as _possibility_ catalyst—that is, design for the purpose of imagining new possible futures—enabling ourselves to have real conversations about what kind of world we want to build. In the 1960s, an architecture group, called Superstudio, imagined new kinds of radical architectural design, which helped push design from problem-solving to problem-seeking. This form of design has autonomy from the constraints of the market, and has the benefit of self-reflection.
@@ -63,6 +69,8 @@ If you look carefully at this list, you an also simultaneously locate a place fo
 7. Superstudio image. [http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/](http://hughpearman.com/fictions-and-mythologies-how-architecture-writes-itself/)
 8. Dunne, Anthony. Raby, Fiona. Speculative Everything: Design, Fiction, and Social Dreaming. 2013. Page 4.
 9. Dunne, Anthony. Raby, Fiona. Design Noir: The Secret Life of Electronic Objects. Birkhäuser Basel. 2001.
+10. [https://www.theuncomfortable.com/about/](https://www.theuncomfortable.com/about/). Accessed Jan 20, 2018
+
 
 
 
