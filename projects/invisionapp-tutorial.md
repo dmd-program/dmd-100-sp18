@@ -2,6 +2,8 @@
 
 These are quick tutorials to help explain the process of setting up and distributing InvisionApp prototypes as well as submitting to box.psu.edu and ELMSLN Studio.
 
+[InVision Video Tutorial](https://invisionapp.wistia.com/medias/5daefdvykt) **\(24:08\)**
+
 ## Prepare images for upload
 
 If you are working from photos that are not the correct size and aspect ratio, you will need to crop them to prepare them for upload.
