@@ -72,7 +72,7 @@ Now that you have described the various aspects of the ritual, you will prototyp
 
 ## Post work to the Studio
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Upload the `.zip` archive file to Studio 
 2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio together with Prototype Description to the Studio.
