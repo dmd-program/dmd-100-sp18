@@ -14,6 +14,8 @@ The three categories of signifiers are the **\(1\) Icon**, **\(2\) Symbol** and 
 
 The **signified** is the conceptual idea. If you were to write the word _spoon_, that word would be a symbol that signifies the referenced object, spoon.
 
+Semiotics is fairly paradoxical, as it is intrinsically linked to culture. To understand why, see the following video collaboration between VOX and 99% Invisible, called [Beyond Biohazard: Why Danger Symbols Can't Last Forever](https://youtu.be/lOEqzt36JEM).
+
 ## Semantics
 
 Conceptual semantics focuses on understanding how meaning is formed cognitively. If we look at a diagram of the Meaning Triangle, we can see that there is a sign—an icon, symbol, or index—which in the example in the diagram is written as the symbol "spoon." The concept of a spoon is the thought or mental act associated with referring to the spoon object. The object, also known as a referent, does not have to be a physical thing, just something that is being referred to.
