@@ -14,7 +14,7 @@ Now that your prototype is done, it is time to participate in feedback. You will
 
 ## Post work to the Studio
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Post the corresponding feedback to your assigned feedback group member's assignment submission as a **comment** in Studio.
 2. Combine all the feedback you've written and upload to this assignment's submission text field or upload a MS Word document.

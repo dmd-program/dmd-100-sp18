@@ -11,7 +11,7 @@ This is the first round of iterative improvement. Read your feedback and conside
 
 ## Post work to the Studio
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Upload a `prototype-USERID.zip` file of the prototype.
 2. Upload a `changelog.doc` with all changes that were made.
