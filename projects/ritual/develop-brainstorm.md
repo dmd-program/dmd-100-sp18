@@ -73,7 +73,7 @@ View an [Example Paper brainstorm session](https://paper.dropbox.com/doc/Mikes-b
 
 ## Post work to the Studio
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Follow **download and export** instructions to download the brainstorm document in Markdown format. 
 2. Open the `.md` document with any plaintext editing software such as [TextEdit](https://en.wikipedia.org/wiki/TextEdit) on OSX or [NotePad](https://en.wikipedia.org/wiki/Microsoft_Notepad) on Windows. Copy the content of the `.md` document and paste it into the assignment submission text box.
