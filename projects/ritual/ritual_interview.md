@@ -59,7 +59,7 @@ Laddering is a technique developed in the 1960s to help clinical psychologists u
 
 ## Post work to the Studio
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly. 
 
 1. Submit an image of your journal notes in `.jpg` or `.png` format.
 
