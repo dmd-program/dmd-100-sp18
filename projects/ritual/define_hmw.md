@@ -25,7 +25,7 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 
 ## Post work to the Studio
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Upload the photograph or scan of your HMW questions in `.jpg` or `.png` format.
 
