@@ -15,6 +15,11 @@ Use the file format indicated in each step. You must obtain prior approval to de
 
 1. Upload a `prototype-USERID.zip` file of the prototype.
 2. Upload a `changelog.doc` with all changes that were made.
+3. Write your changes from the changelog.doc into the submission description text box.
+
+
+
+
 
 
 
