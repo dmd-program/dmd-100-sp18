@@ -35,7 +35,7 @@ Please allow at least 60-75 minutes to complete this activity.
    * energy
    * labor
 4. Now that you have created three word-pairs, write each one onto a separate journal page.
-   * **Imagine it is the year 2047 and an ideal or positive situation has occurred**, inspired by the word-pair. Think of one-sentence descriptions to explain the scenario. It is okay to take inspiration for your ideas from current events, film, books, news, personal experiences, etc. Write as many responses per word-pairs as you can \(at minimum, two per word-pair\). Limit yourself to 30 minutes.
+   * **Think about important contemporary issues. Now imagine 30 years into the future and an ideal or positive situation has occurred**, inspired by the word-pair (IE - if it's 2020, think forward to 2050). Think of one-sentence descriptions to explain the scenario. It is okay to take inspiration for your ideas from current events, film, books, news, personal experiences, etc. Write as many responses per word-pairs as you can \(at minimum, two per word-pair\). Limit yourself to 30 minutes.
 
 ![narrative word pairs](/assets/narrative-discover-wordpairs.jpg)
 
