@@ -63,7 +63,6 @@
     * [Story development](topics/organizing_story_development.md)
     * [Character](topics/character.md)
     * [Narrative media](topics/narrative-media.md)
-    * [Narrative style](topics/narrative-style.md)
   * Listening
     * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
   * Watching

@@ -2,7 +2,9 @@
 
 # Define: Synopsis
 
-In this activity, you will create a short synopsis sentence to guide the story narrative.
+In this activity, you will create a short synopsis sentence to guide a fictional, yet **plausible** story narrative.
+
+Aliens - possible, but NOT plausible
 
 ## Instructions
 
