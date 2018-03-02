@@ -26,4 +26,4 @@ Twine Tutorial: [Getting started with Twine](/topics/twine-tutorial-getting-star
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 
-1. Upload the exported Twine `.html` file.
+1. Compress the exported Twine `.html` file into a `.,zip` file, and upload the `.zip` file.
