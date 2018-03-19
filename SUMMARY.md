@@ -44,6 +44,9 @@
   * Readings
     * [Chapter 3. What Design and Truth Say About Each Other](reading-reflections/chapter_3_what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](reading-reflections/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
+    * [Chapter 5. Edsel's Law: How Bad Design Happens](reading-reflections/chapter_5_edsels_law_how_bad_design_happens.md)
+    * [Chapter 6. Designs of Darkness](reading-reflections/chapter_6_designs_of_darkness.md)
+    * [Chapter 7. Face to Face with Design](reading-reflections/chapter_7_face_to_face_with_design.md)
   * Project
     * [Ritual Project Introduction](projects/ritual/ritual_project.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
@@ -69,9 +72,9 @@
     * [Creative Mornings: Jordan Tannahill](watching/creative-mornings-jordan-tannahill.md)
     * [Andrew Stanton: The clues to a great story](watching/andrew-stanton-the-clues-to-a-great-story.md)
   * Readings
-    * [Chapter 5. Edsel's Law: How Bad Design Happens](reading-reflections/chapter_5_edsels_law_how_bad_design_happens.md)
-    * [Chapter 6. Designs of Darkness](reading-reflections/chapter_6_designs_of_darkness.md)
-    * [Chapter 7. Face to Face with Design](reading-reflections/chapter_7_face_to_face_with_design.md)
+    * [Chapter 8. Giorgio Vasari and the Permutations of Design](reading-reflections/chapter_8_giorgio_vasari_and_the_permutations_of_design.md)
+    * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](reading-reflections/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r.md)
+    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](reading-reflections/chapter_10_in_jeffersons_footsteps_modes_of_self-design.md)
   * Project
     * [Hypertext Narrative introduction](projects/narrative/hypertext-narrative_civic_imagination_project.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
@@ -98,10 +101,10 @@
   * Watch
     * [Open Structures: Thomas Lommee](watching/open-structures-thomas-lommee.md)
   * Readings
-    * [Chapter 8. Giorgio Vasari and the Permutations of Design](reading-reflections/chapter_8_giorgio_vasari_and_the_permutations_of_design.md)
-    * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](reading-reflections/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r.md)
-    * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](reading-reflections/chapter_10_in_jeffersons_footsteps_modes_of_self-design.md)
     * [Chapter 11. Jefferson's Gravestone: Metaphorical Extensions of Design](reading-reflections/chapter_11_jeffersons_gravestone_metaphorical_extensions_of_d.md)
+    * [Chapter 12. Liberty as Knowledge Design](reading-reflections/chapter_12_liberty_as_knowledge_design.md)
+    * [Chapter 13. Corporate Redesign and the Business of Knowledge](reading-reflections/chapter_13_corporate_redesign_and_the_business_of_knowledge.md)
+    * [Chapter 14. Designing Time](reading-reflections/chapter_14_designing_time.md)
   * Project
     * [Open Design Project Introduction](projects/open_design/open_design_project.md)
     * [Discover: Toy Design Research](projects/open_design/discover-toy-design-research.md)
@@ -120,9 +123,6 @@
   * Activities
     * [Pathway design](practice/pathway.md)
   * Readings
-    * [Chapter 12. Liberty as Knowledge Design](reading-reflections/chapter_12_liberty_as_knowledge_design.md)
-    * [Chapter 13. Corporate Redesign and the Business of Knowledge](reading-reflections/chapter_13_corporate_redesign_and_the_business_of_knowledge.md)
-    * [Chapter 14. Designing Time](reading-reflections/chapter_14_designing_time.md)
     * [Chapter 15. The Design of Private Knowledge](reading-reflections/chapter_15_the_design_of_private_knowledge.md)
 * [License](LICENSE.md)
 
