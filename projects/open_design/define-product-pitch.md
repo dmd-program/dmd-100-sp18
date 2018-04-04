@@ -34,13 +34,15 @@ Create a document file with the following:
 ## Instructions
 
 1. Choose an existing toy that interests you.
-2. Fill out the description for this toy in the product pitch document.
+2. Write the description for this toy in the product pitch document using full sentences.
 3. Consider how you will change the toy to suit the requirements of the Open Design Project brief. If the existing toy is modular in nature, how will you alter it or use it in novel ways to make it your own? If the existing toy is not modular in nature, what aspects of it can become modular? **Your user should be able to make three different objects from the same set of parts. Write a pitch and include a description of the attributes you will modify.** Examples include:
    1. Target audience (from child to adult for instance)
    2. Materials, fasteners
    3. Aesthetics
    4. Operation, assembly, use, or purpose
    5. Added variants or unconventional uses for an existing system.
+4. As a vital part of the design process, this document should be well formatted and clearly written. Please do not copy and paste the assignment text into the document.
+
 
 ## Post work to the Studio
 
