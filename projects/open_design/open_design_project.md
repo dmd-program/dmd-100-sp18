@@ -4,7 +4,7 @@
 
 ## Brief
 
-In this project, you will follow the Double Diamond design process to: \(1\) design a kit of parts that can be used to build a toy, model, or other object; \(2\) write comprehensive instructions for how to make the parts and assemble the kit; and \(3\) create photo documentation of your work.
+In this project, you will follow the Double Diamond design process to: \(1\) design a kit of parts that can be used to build a toy, model, or other object for use by human people; \(2\) write comprehensive instructions for how to make the parts and assemble the kit; and \(3\) create photo documentation of your work.
 
 This object will be a collection or kit of parts that can be reconfigured to create variations. This is serious \(though playful\) product design. You can create your own custom parts from raw materials like cardboard, wood, foam, and others, or found objects like rubber bands, toothpicks, paper clips, etc. A **part** is a discrete element and is different from an ingredient in that it maintains its structural integrity when it's separated, whereas an ingredient gets combined and can not be separated again without a complex separation process. Ingredients should not form the basis of the toy.
 
