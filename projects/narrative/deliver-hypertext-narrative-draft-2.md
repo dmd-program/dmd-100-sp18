@@ -18,8 +18,8 @@ In this draft, consider the role of style and emerging techniques in your narrat
 
 Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
 
-1. Upload a short description about the changes and improvements that were made in `.doc` format.
-2. Upload the exported Twine `.html` file \(or `.zip` file if you have multiple assets\).
+1. **Change Log:** Upload a short description about the changes and improvements that were made in `changelog.doc` format.
+2. **HTML:** Upload the exported Twine `.html` file \(or `.zip` file if you have multiple assets\).
 
 
 
