@@ -6,7 +6,7 @@
    * Functional Patterns
    * Perceptual Patterns
    * Shared Language
-    - 
+   * Importance of play ("serious play")
 2. Integrate theory into Project 3
    * Design Systems
    * Design Principles
