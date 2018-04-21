@@ -10,7 +10,7 @@ Review your notes from the user test and make adjustments, clarifications, and r
 
 ## Post work to the Studio (2 files)
 
-Use the exact indicated file format. You must obtain prior approval to deviate from these upload requirements.
+Use the indicated file format. You must obtain prior approval to deviate from these upload requirements.
 
 1. Upload a `changelog.doc`.
 2. Upload a `yourname-instructions-2.pdf` document. This should be a new and revised PDF document. Unrevised documents will not be graded.
