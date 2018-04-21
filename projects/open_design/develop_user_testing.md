@@ -16,7 +16,7 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
   - What did you like about using the kit?
   - What didn't you like? Why is that?
   - What were you feeling while following the instructions?
-6. Reflect on the user test experience and list any insights you observed.
+6. Reflect on the user test experience and list any insights you observed or ideas for future improvements.
 
 ## Post work to the Studio
 
