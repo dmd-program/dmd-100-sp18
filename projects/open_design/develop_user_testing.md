@@ -15,8 +15,8 @@ Carefully observe someone attempting to use the kit. Take notes of what you noti
 5. After your user finished, ask them some followup questions:
   - What did you like about using the kit?
   - What didn't you like? Why is that?
-  - What could be better?
-  - Was this fun, or frustrating?
+  - What were you feeling while following the instructions?
+6. Reflect on the user test experience and list any insights you discovered.
 
 ## Post work to the Studio
 
