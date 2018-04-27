@@ -61,6 +61,14 @@ While inspiring, these lists do little to explain the process behind good design
 
 These lists were not meant to be hard rules that apply to everything, but they can be helpful guidelines and mission statements when making or evaluating design.
 
+## Understanding design, art, and media
+
+[Eduardo Navas](http://navasse.net/) is an artist and art historian whose research centers around media production and remix theory. He describes the contemporary role of media design for digital studio art practices:
+
+“‘Media Design’ in particular, is an interdisciplinary practice in the visual and fine arts because historically, as the term currently functions derives from new media, which in the 90s and early 2000s made possible cross-disciplinary experimentation across art and design. The terms new media art and new media design were sometimes interchangeable in casual language by practitioners who crossed over art and commercial design practice as freelancers and artists. Out of this evolution the term media design connotes something quite different from graphic design as it is commonly understood in terms of careers and professions.
+
+\[...\] the concept of design is not exclusive to a monolithic field. When it is by itself, it connotes  abstract creative processes and methods that can be part of any type of material production–the most common one historically has been art itself. This began to change as we know in the twentieth century after the Bauhaus developed more specific approaches to art and design as specific creative concepts that for them were closely intertwined. The term design when combined with another term, such as the ones mentioned above, today functions as a very important concept to be used to describe interdisciplinarity within specializations that are by no means insulated, and are constantly influencing each other.”
+
 ## Citations
 
 1. [https://www.vitsoe.com/us/about/good-design](https://www.vitsoe.com/us/about/good-design) \(Commons CC-BY-NC-ND 4.0\)
