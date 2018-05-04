@@ -21,6 +21,6 @@ You will now take photos of the toy assemblies and make any needed adjustments t
 ## Post work to the Studio
 
 1. Submit the following `JPG` images:
-    1. Submit one (1) knolling style `JPG` image showing the various parts you have assembled for the toy kit.
+    1. Submit one (1) knolling style `JPG` image showing the various parts you have assembled for the toy kit on a flat, white background.
     2. Submit three to eight (3-8) `JPG` images of the object variants.
 2. In addition to the images, upload a revised PDF instructions document and name it `yourname-instructions.pdf`.
