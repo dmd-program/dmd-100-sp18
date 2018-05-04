@@ -6,6 +6,13 @@ Now you will make a set of instructions to teach another person to create and as
 
 **Note:** Remember, none of this is fiction. You are creating a real instruction manual with everything needed for the end user to do this on their own. If you are incorporating templates, they will be printing those templates out from your instructions.
 
+This project asks you to do something that has elements of novelty, to be resourceful, and to be produce a a modular system of parts. To check that you are on track before submitting, it may help to ask yourself the following questions:
+
+1. Is my project's core idea ambitious enough?
+2. Does it do something that no one else has quite done before?
+3. Does it satisfy the project's reconfigurable modular system and kit of parts requirements?
+4. Can the photos be better quality, and is the instructions document properly formatted and readable?
+
 ## Document requirements
 
 1. Title of your toy design
