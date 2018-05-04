@@ -8,10 +8,11 @@ Now you will make a set of instructions to teach another person to create and as
 
 This project asks you to do something that has elements of novelty, to be resourceful, and to be produce a a modular system of parts. To check that you are on track before submitting, it may help to ask yourself the following questions:
 
-1. Is my project's core idea ambitious enough?
-2. Does it do something that no one else has quite done before?
+1. Is my project's core idea ambitious enough, or too ambitious?
+2. Does it do something that no one else has quite done before in the same way?
 3. Does it satisfy the project's reconfigurable modular system and kit of parts requirements?
-4. Can the photos be better quality, and is the instructions document properly formatted and readable?
+4. Can the documentation photos be better quality? (I.g. - We shouldn't be able to see your living room or kitchen in the background)
+5. Is the instructions document properly formatted and readable?
 
 ## Document requirements
 
