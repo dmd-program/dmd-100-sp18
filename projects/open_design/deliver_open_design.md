@@ -9,7 +9,7 @@ You will now take photos of the toy assemblies and make any needed adjustments t
 ### Photograph documentation
 
 1. Arrange all of the parts, [knolling style](https://en.wikipedia.org/wiki/Knolling).
-2. Photograph the kit parts from above.
+2. Photograph the kit parts from above on a flat, white background.
 3. Assemble the kit parts into at least three total object variations.
 4. Take photographs of the assembled kit toys demonstrating any modular or reconfigurable characteristics of the kit. If you are feeling ambitious, follow [this video tutorial](https://www.youtube.com/watch?v=T6fnHEvLyAE) to set up a light box. 
 
@@ -21,6 +21,6 @@ You will now take photos of the toy assemblies and make any needed adjustments t
 ## Post work to the Studio
 
 1. Submit the following `JPG` images:
-    1. Submit one (1) knolling style `JPG` image showing the various parts you have assembled for the toy kit on a flat, white background.
+    1. Submit one (1) knolling style `JPG` image showing the various parts you have assembled for the toy kit.
     2. Submit three to eight (3-8) `JPG` images of the object variants.
 2. In addition to the images, upload a revised PDF instructions document and name it `yourname-instructions.pdf`.
