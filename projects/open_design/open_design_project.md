@@ -21,7 +21,12 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 ## Inspiration
 
 * Not entirely "open," but an excellent example of IKEA affect in product design: [Nintendo Labo](https://www.youtube.com/watch?v=P3Bd3HUMkyU)
-
+* https://makezine.com/blog/
+* http://www.instructables.com/
+* https://hackaday.com/
+* https://www.craftster.org/
+* http://www.getcrafty.com/
+* https://lifehacker.com/
 
 ## Previous student work
 
