@@ -11,7 +11,7 @@ You will now take photos of the toy assemblies and make any needed adjustments t
 1. Arrange all of the parts, [knolling style](https://en.wikipedia.org/wiki/Knolling).
 2. Photograph the kit parts from above on a flat, white background.
 3. Assemble the kit parts into at least three total object variations.
-4. Take photographs of the assembled kit toys demonstrating any modular or reconfigurable characteristics of the kit. If you are feeling ambitious, follow [this video tutorial](https://www.youtube.com/watch?v=T6fnHEvLyAE) to set up a light box. 
+4. Take photographs of the assembled kit toys demonstrating any modular or reconfigurable characteristics of the kit. If you are feeling ambitious, follow [this video tutorial](https://www.youtube.com/watch?v=T6fnHEvLyAE) to set up a light box, or see this [instructables tutorial](http://www.instructables.com/id/Super-Simple-Light-Tent/).
 
 ### Instructions document
 
