@@ -33,7 +33,7 @@ The [Designers Accord](http://designersaccord.org/) was a five-year project that
 
 The [educational toolkit](http://edutoolkit.designersaccord.org/) also recommends that you do not use the word sustainability when incorporating it into a curriculum, and I have followed this recommendation for the most part within course projects and other assignments. Sustainability is a central part to all good design, though it's not specifically referenced. The Designers Accord is a clear example of an organized initiative to get designers thinking more systemically in terms of environmental and social impact.
 
-## A speculative hyper-object
+## The problem of the ‘hyperobject’
 
 Now, let us consider the issue of large congregations of plastic in the sea, described on the website for the United States National Oceanic and Atmospheric Administration \(NOAA\):
 
@@ -65,13 +65,35 @@ Critic Timothy Morton calls these systems **hyperobjects**. They are objects so 
 
 > "The problem is bigger, it’s a system.” Curtis and I briefly discussed a word coined by the critic Timothy Morton to describe a problem so vast in space and time that you are unable to apprehend it: a “hyperobject.” Global warming is a classic example of a hyperobject: it’s everywhere and nowhere, too encompassing to think about. Global markets, too. But naming a hyperobject alone is of limited use; human cognition knows all too well how to file such imminent imponderables away, on a “to-do” list that’s never consulted again. \[3\]
 
+## ‘Wicked’ problems
+
+To adequately describe the difficulty of designing policies to fix complex social issues, UC Berkeley professors Horst Rittel and Melvin M. Webber formalized theory in a 1973 publication around the term “wicked problem.” It describes problems that are not only difficult to define, but also inherently unsolvable. They defined the following 10 characteristics of wicked problems:
+
+1. A wicked problem has no particular form. (I.e. Poverty in one country is different from poverty in another, etc.)
+2. Wicked problems can be worked on indefinitely. (Until resourced run out)
+3. Subjectively good or bad rather than objectively true or false.
+4. No means to immediately and fully test solutions.
+5. Implementing solutions changes the problem, and are therefore “one-shot” operations rather than trial and error.
+6. No criteria to indicate if all solutions have been identified.
+7. Every wicked problem is unique. (Problem solving process is always new)
+8. Wicked problems are symptoms of other problems. (Interconnected complex systems)
+9. How the problem is framed dictates how the problem is solved. (Bias heavily influences approach)
+10. Planners are responsible for negative outcomes that result from the actions they take. (The stakes are high)
+
+\[4\]
+
+This list might sound daunting, but don't despair – these are not necessarily unsolvable problems. Designers have been developing ways to attack the wicked problem for many years. These problems are where design thinkers and interdisciplinarian workers situate themselves. For some inspiration, see IDEO's open design community platform: https://www.openideo.com/
+
 ## Citation
 
 1. McDonough, William; Braungart, Michael \(2002\). [Cradle to Cradle: Remaking the Way We Make Things](https://books.google.com/books?id=KFX5RprPGQ0C). North Point Press. p. 193. [ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [0-86547-587-3](https://en.wikipedia.org/wiki/Special:BookSources/0-86547-587-3). Retrieved 28 December 2016.
-
 2. [The Designers Accord: Integrating sustainability into design education: The Toolkit](http://edutoolkit.designersaccord.org/how-can-we-create-a-common-language/). \(2009\) Retrieved 28 December 2016.
-
 3. Lethem, Jonathan. [Adam Curtis and the Secret History of Everything](http://www.nytimes.com/interactive/2016/10/30/magazine/adam-curtis-documentaries.html). The New York Times Magazine. October 27, 2016. Retrieved 28 December 2016.
+4. Rittel, Horst. "Dilemmas in a General Theory of Planning." Policy Sciences, 1973: 155-169.
+
+
+
+
 
 
 
